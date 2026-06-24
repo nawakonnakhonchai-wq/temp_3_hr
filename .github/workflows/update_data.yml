@@ -1,20 +1,17 @@
 name: Update Weather Data
 
 on:
-  # รับคำสั่งจาก Cron-job.org
   repository_dispatch:
     types: [run-weather-update]
-  # (ทางเลือก) สั่งให้รันด้วยตัวเองด้วยก็ได้ เพื่อทดสอบ
   workflow_dispatch:
 
 jobs:
-  update-geojson:
+  update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # สำคัญมาก: ต้องให้สิทธิ์ Actions ในการเขียนไฟล์ลง Repo
-    
+      contents: write # ให้สิทธิ์ในการเขียนไฟล์ลงใน repository
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -25,19 +22,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests geojson
 
-      - name: Run converter script
-        run: python convert.py # ตรวจสอบให้แน่ใจว่าไฟล์ Python อยู่ที่ root หรือปรับ path ให้ถูกต้อง
+      - name: Run converter and summarizer
+        run: |
+          # สร้างโฟลเดอร์สำหรับเก็บข้อมูล (กรณีที่ยังไม่มี)
+          mkdir -p history stats
+          python convert.py
+          python summarize.py
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # ตรวจสอบว่ามีการเปลี่ยนแปลงจริงหรือไม่
-          if [[ -n $(git status -s) ]]; then
-            git add weather_data.geojson
-            git commit -m "Auto-update: Weather data $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          # ตรวจสอบการเปลี่ยนแปลงไฟล์ในโฟลเดอร์ที่เกี่ยวข้อง
+          git add weather_data.geojson history/ stats/
+          
+          # ตรวจสอบว่ามีการเปลี่ยนแปลงหรือไม่ก่อนสั่ง commit
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: weather data and stats" && git push)

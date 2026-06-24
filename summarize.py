@@ -12,7 +12,6 @@ def generate_summary():
         data = json.load(f)
         features = data['features']
     
-    # จัดกลุ่มข้อมูลรายวัน
     daily_data = {}
     for f in features:
         date = f['properties']['date']
@@ -24,12 +23,10 @@ def generate_summary():
         valid_temps = [i for i in items if i['properties']['temp'] > 0]
         if not valid_temps: continue
         
-        # หาสถานีที่ Min และ Max
         min_f = min(valid_temps, key=lambda x: x['properties']['temp'])
         max_f = max(valid_temps, key=lambda x: x['properties']['temp'])
-        max_r = max(items, key=lambda x: x['properties']['rainfall'])
+        max_r24 = max(items, key=lambda x: x['properties']['rainfall_24hr'])
         
-        # สร้าง Feature สรุปสำหรับ ArcGIS
         summary_features.append(geojson.Feature(geometry=min_f['geometry'], properties={
             "date": date, "metric": "min_temp", "value": min_f['properties']['temp'], 
             "station": min_f['properties']['station_name'], "province": min_f['properties']['province']
@@ -38,9 +35,9 @@ def generate_summary():
             "date": date, "metric": "max_temp", "value": max_f['properties']['temp'], 
             "station": max_f['properties']['station_name'], "province": max_f['properties']['province']
         }))
-        summary_features.append(geojson.Feature(geometry=max_r['geometry'], properties={
-            "date": date, "metric": "max_rainfall", "value": max_r['properties']['rainfall'], 
-            "station": max_r['properties']['station_name'], "province": max_r['properties']['province']
+        summary_features.append(geojson.Feature(geometry=max_r24['geometry'], properties={
+            "date": date, "metric": "max_rainfall_24hr", "value": max_r24['properties']['rainfall_24hr'], 
+            "station": max_r24['properties']['station_name'], "province": max_r24['properties']['province']
         }))
         
     with open('stats/daily_summary.geojson', 'w', encoding='utf-8') as f:

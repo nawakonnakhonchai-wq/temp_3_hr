@@ -1,0 +1,43 @@
+name: Update Weather Data
+
+on:
+  # รับคำสั่งจาก Cron-job.org
+  repository_dispatch:
+    types: [run-weather-update]
+  # (ทางเลือก) สั่งให้รันด้วยตัวเองด้วยก็ได้ เพื่อทดสอบ
+  workflow_dispatch:
+
+jobs:
+  update-geojson:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # สำคัญมาก: ต้องให้สิทธิ์ Actions ในการเขียนไฟล์ลง Repo
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests geojson
+
+      - name: Run converter script
+        run: python convert.py # ตรวจสอบให้แน่ใจว่าไฟล์ Python อยู่ที่ root หรือปรับ path ให้ถูกต้อง
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # ตรวจสอบว่ามีการเปลี่ยนแปลงจริงหรือไม่
+          if [[ -n $(git status -s) ]]; then
+            git add weather_data.geojson
+            git commit -m "Auto-update: Weather data $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi

@@ -74,16 +74,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59944,
-          13.37722
+          103.58833,
+          16.3325
         ]
       },
       "properties": {
         "date": "06/25/2026",
         "metric": "max_temp",
-        "value": 30.5,
-        "station": "นำร่อง",
-        "province": "สมุทรปราการ"
+        "value": 35.2,
+        "station": "กาฬสินธุ์",
+        "province": "กาฬสินธุ์"
       }
     },
     {

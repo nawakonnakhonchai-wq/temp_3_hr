@@ -1,6 +1,7 @@
 import json
 import os
 import geojson
+from datetime import datetime
 
 def generate_summary():
     os.makedirs('stats', exist_ok=True)
@@ -21,18 +22,23 @@ def generate_summary():
     daily_data = {}
     for f in features:
         props = f.get('properties', {})
-        date = props.get('date')
+        raw_date = props.get('date')
         
-        if not date: 
+        if not raw_date: 
             continue
             
-        if date not in daily_data: 
-            daily_data[date] = []
-        daily_data[date].append(f)
+        # แปลงวันที่จาก MM/DD/YYYY เป็น YYYY-MM-DD เพื่อให้ ArcGIS มองเป็น Date
+        try:
+            formatted_date = datetime.strptime(raw_date, "%m/%d/%Y").strftime("%Y-%m-%d")
+        except ValueError:
+            formatted_date = raw_date # ถ้า format เดิมไม่ใช่ MM/DD/YYYY ให้ใช้ค่าเดิม
+            
+        if formatted_date not in daily_data: 
+            daily_data[formatted_date] = []
+        daily_data[formatted_date].append(f)
             
     summary_features = []
     for date, items in daily_data.items():
-        # แก้ไขให้รองรับอุณหภูมิ 0 องศา หรือติดลบ (ตราบใดที่ค่านั้นมีอยู่จริง ไม่ใช่ None)
         valid_temps = [
             i for i in items 
             if i.get('properties', {}).get('temp') is not None
@@ -41,38 +47,27 @@ def generate_summary():
         if not valid_temps: 
             continue
         
-        # ดึงค่าแบบใส่ Default ป้องกันกรณีเกิด KeyError ขึ้นภายหลัง
         min_f = min(valid_temps, key=lambda x: x['properties'].get('temp', 999.0))
         max_f = max(valid_temps, key=lambda x: x['properties'].get('temp', -999.0))
         max_r24 = max(items, key=lambda x: x.get('properties', {}).get('rainfall_24hr', 0.0))
         
-        summary_features.append(geojson.Feature(geometry=min_f.get('geometry'), properties={
-            "date": date, 
-            "metric": "min_temp", 
-            "value": min_f['properties'].get('temp'), 
-            "station": min_f['properties'].get('station_name', 'Unknown'), 
-            "province": min_f['properties'].get('province', 'Unknown')
-        }))
-        
-        summary_features.append(geojson.Feature(geometry=max_f.get('geometry'), properties={
-            "date": date, 
-            "metric": "max_temp", 
-            "value": max_f['properties'].get('temp'), 
-            "station": max_f['properties'].get('station_name', 'Unknown'), 
-            "province": max_f['properties'].get('province', 'Unknown')
-        }))
-        
-        summary_features.append(geojson.Feature(geometry=max_r24.get('geometry'), properties={
-            "date": date, 
-            "metric": "max_rainfall_24hr", 
-            "value": max_r24['properties'].get('rainfall_24hr', 0.0), 
-            "station": max_r24['properties'].get('station_name', 'Unknown'), 
-            "province": max_r24['properties'].get('province', 'Unknown')
-        }))
+        # ฟังก์ชันช่วยสร้าง Feature เพื่อลดความซ้ำซ้อนของโค้ด
+        def create_feature(item, metric, value, date_val):
+            return geojson.Feature(geometry=item.get('geometry'), properties={
+                "date": date_val, 
+                "metric": metric, 
+                "value": value, 
+                "station": item['properties'].get('station_name', 'Unknown'), 
+                "province": item['properties'].get('province', 'Unknown')
+            })
+
+        summary_features.append(create_feature(min_f, "min_temp", min_f['properties'].get('temp'), date))
+        summary_features.append(create_feature(max_f, "max_temp", max_f['properties'].get('temp'), date))
+        summary_features.append(create_feature(max_r24, "max_rainfall_24hr", max_r24['properties'].get('rainfall_24hr', 0.0), date))
         
     with open('stats/daily_summary.geojson', 'w', encoding='utf-8') as f:
         geojson.dump(geojson.FeatureCollection(summary_features), f, ensure_ascii=False, indent=2)
-    print("Daily summary generated successfully!")
+    print("Daily summary generated successfully with ISO date format!")
 
 if __name__ == "__main__":
     generate_summary()

@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "date": "06/24/2026",
+        "date": "06/26/2026",
         "metric": "min_temp",
-        "value": 23.8,
+        "value": 20.3,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.18736,
-          15.26667
+          104.061,
+          17.12503
         ]
       },
       "properties": {
-        "date": "06/24/2026",
+        "date": "06/26/2026",
         "metric": "max_temp",
-        "value": 39.1,
-        "station": "บัวชุม  ",
-        "province": "ลพบุรี"
+        "value": 35.6,
+        "station": "สกลนคร สกษ.",
+        "province": "สกลนคร"
       }
     },
     {
@@ -40,67 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.87808,
-          11.78033
+          100.605,
+          13.91917
         ]
       },
       "properties": {
-        "date": "06/24/2026",
+        "date": "06/26/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.6,
-        "station": "ตราด",
-        "province": "ตราด"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
-        "date": "06/25/2026",
-        "metric": "min_temp",
-        "value": 18.1,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.58833,
-          16.3325
-        ]
-      },
-      "properties": {
-        "date": "06/25/2026",
-        "metric": "max_temp",
-        "value": 35.2,
-        "station": "กาฬสินธุ์",
-        "province": "กาฬสินธุ์"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.45833,
-          13.51556
-        ]
-      },
-      "properties": {
-        "date": "06/25/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 65.7,
-        "station": "ฉะเชิงเทรา",
-        "province": "ฉะเชิงเทรา"
+        "value": 40.4,
+        "station": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร"
       }
     }
   ]

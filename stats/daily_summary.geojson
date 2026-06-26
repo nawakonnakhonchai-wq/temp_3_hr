@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.061,
-          17.12503
+          103.74389,
+          16.02
         ]
       },
       "properties": {
         "date": "06/26/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "สกลนคร สกษ.",
-        "province": "สกลนคร"
+        "value": 37.2,
+        "station": "ร้อยเอ็ด",
+        "province": "ร้อยเอ็ด"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.605,
-          13.91917
+          98.25222,
+          8.68417
         ]
       },
       "properties": {
         "date": "06/26/2026",
         "metric": "max_rainfall_24hr",
-        "value": 40.4,
-        "station": "สนามบินดอนเมือง",
-        "province": "กรุงเทพมหานคร"
+        "value": 42.5,
+        "station": "ตะกั่วป่า",
+        "province": "พังงา"
       }
     }
   ]

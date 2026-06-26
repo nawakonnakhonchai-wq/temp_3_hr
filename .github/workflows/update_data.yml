@@ -1,15 +1,19 @@
 name: Update Weather Data
 
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [run-weather-update]
-  workflow_dispatch:
+  schedule:
+    # รันอัตโนมัติทุกๆ 3 ชั่วโมง (ปรับเวลาได้ตามต้องการ)
+    - cron: '0 */3 * * *'
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ให้สิทธิ์ในการเขียนไฟล์ลงใน repository
+      contents: write # ให้สิทธิ์ในการ Commit และ Push ข้อมูลกลับเข้า Repo
+      
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -20,13 +24,18 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests geojson
-
-      - name: Run converter and summarizer
         run: |
-          # สร้างโฟลเดอร์สำหรับเก็บข้อมูล (กรณีที่ยังไม่มี)
+          pip install requests geojson
+
+      - name: Run scripts
+        run: |
+          # สร้างโฟลเดอร์ให้แน่ใจว่ามีอยู่จริง
           mkdir -p history stats
+          
+          # 1. ดึงข้อมูลจาก API และอัปเดตไฟล์ History
           python convert.py
+          
+          # 2. นำไฟล์ History ไปสรุปผลเป็นรายวัน
           python summarize.py
 
       - name: Commit and Push changes
@@ -34,8 +43,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # ตรวจสอบการเปลี่ยนแปลงไฟล์ในโฟลเดอร์ที่เกี่ยวข้อง
+          # เพิ่มไฟล์ที่อัปเดตใหม่เข้า Git
           git add weather_data.geojson history/ stats/
           
-          # ตรวจสอบว่ามีการเปลี่ยนแปลงหรือไม่ก่อนสั่ง commit
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: weather data and stats" && git push)
+          # ตรวจสอบว่ามีการเปลี่ยนแปลงจริงหรือไม่ก่อน Commit
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update: weather data, history, and stats"
+            git push
+          fi

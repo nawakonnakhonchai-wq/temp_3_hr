@@ -74,16 +74,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.061,
-          17.12503
+          103.06805,
+          16.24722
         ]
       },
       "properties": {
         "date": "06/27/2026",
         "metric": "max_temp",
-        "value": 35.4,
-        "station": "สกลนคร สกษ.",
-        "province": "สกลนคร"
+        "value": 36.5,
+        "station": "มหาสารคาม",
+        "province": "มหาสารคาม"
       }
     },
     {

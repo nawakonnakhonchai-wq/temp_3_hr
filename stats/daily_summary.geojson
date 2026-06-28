@@ -125,16 +125,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.16861,
-          14.71889
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "06/28/2026",
         "metric": "max_temp",
-        "value": 37.0,
-        "station": "โชคชัย",
-        "province": "นครราชสีมา"
+        "value": 37.5,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

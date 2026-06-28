@@ -142,16 +142,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          104.21436,
+          15.79494
         ]
       },
       "properties": {
         "date": "06/28/2026",
         "metric": "max_rainfall_24hr",
-        "value": 66.2,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 87.2,
+        "station": "ยโสธร",
+        "province": "ยโสธร"
       }
     }
   ]

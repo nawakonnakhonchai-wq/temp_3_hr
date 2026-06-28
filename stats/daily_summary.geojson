@@ -125,16 +125,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.79239,
-          13.48931
+          102.16861,
+          14.71889
         ]
       },
       "properties": {
         "date": "06/28/2026",
         "metric": "max_temp",
-        "value": 34.7,
-        "station": "ราชบุรี",
-        "province": "ราชบุรี"
+        "value": 37.0,
+        "station": "โชคชัย",
+        "province": "นครราชสีมา"
       }
     },
     {

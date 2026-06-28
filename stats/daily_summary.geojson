@@ -166,7 +166,7 @@
       "properties": {
         "date": "06/29/2026",
         "metric": "min_temp",
-        "value": 20.0,
+        "value": 18.3,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -200,7 +200,7 @@
       "properties": {
         "date": "06/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 93.2,
+        "value": 138.7,
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }

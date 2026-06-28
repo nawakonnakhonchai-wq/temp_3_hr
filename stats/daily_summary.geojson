@@ -125,16 +125,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.79239,
+          13.48931
         ]
       },
       "properties": {
         "date": "06/28/2026",
         "metric": "max_temp",
-        "value": 30.5,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.7,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
       }
     },
     {

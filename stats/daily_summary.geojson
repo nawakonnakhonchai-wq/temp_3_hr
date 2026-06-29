@@ -176,16 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.16861,
+          14.71889
         ]
       },
       "properties": {
         "date": "06/29/2026",
         "metric": "max_temp",
-        "value": 34.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 36.9,
+        "station": "โชคชัย",
+        "province": "นครราชสีมา"
       }
     },
     {

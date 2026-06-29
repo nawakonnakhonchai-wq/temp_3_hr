@@ -204,6 +204,57 @@
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.39278,
+          14.36222
+        ]
+      },
+      "properties": {
+        "date": "06/30/2026",
+        "metric": "min_temp",
+        "value": 19.5,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "date": "06/30/2026",
+        "metric": "max_temp",
+        "value": 29.6,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "06/30/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 57.8,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
     }
   ]
 }

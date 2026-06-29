@@ -210,16 +210,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "min_temp",
-        "value": 19.5,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 19.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -234,7 +234,7 @@
       "properties": {
         "date": "06/30/2026",
         "metric": "max_temp",
-        "value": 29.6,
+        "value": 30.0,
         "station": "เกาะสีชัง",
         "province": "ชลบุรี"
       }
@@ -244,16 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          102.8,
+          17.38333
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_rainfall_24hr",
-        "value": 57.8,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 64.6,
+        "station": "อุดรธานี",
+        "province": "อุดรธานี"
       }
     }
   ]

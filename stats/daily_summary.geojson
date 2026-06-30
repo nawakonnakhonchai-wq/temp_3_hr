@@ -227,15 +227,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.98333,
+          12.68333
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "เกาะสีชัง",
+        "value": 33.3,
+        "station": "สัตหีบ",
         "province": "ชลบุรี"
       }
     },
@@ -244,16 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.8,
-          17.38333
+          102.73303,
+          17.86717
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.6,
-        "station": "อุดรธานี",
-        "province": "อุดรธานี"
+        "value": 69.4,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     }
   ]

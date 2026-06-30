@@ -255,6 +255,57 @@
         "station": "หนองคาย",
         "province": "หนองคาย"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/01/2026",
+        "metric": "min_temp",
+        "value": 19.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "07/01/2026",
+        "metric": "max_temp",
+        "value": 30.4,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.73303,
+          17.86717
+        ]
+      },
+      "properties": {
+        "date": "07/01/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 122.7,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
+      }
     }
   ]
 }

@@ -227,16 +227,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          12.68333
+          99.79239,
+          13.48931
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_temp",
-        "value": 33.3,
-        "station": "สัตหีบ",
-        "province": "ชลบุรี"
+        "value": 35.5,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
       }
     },
     {
@@ -251,7 +251,7 @@
       "properties": {
         "date": "06/30/2026",
         "metric": "max_rainfall_24hr",
-        "value": 69.4,
+        "value": 69.6,
         "station": "หนองคาย",
         "province": "หนองคาย"
       }

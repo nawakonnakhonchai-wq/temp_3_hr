@@ -278,16 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          99.97,
+          14.01167
         ]
       },
       "properties": {
         "date": "07/01/2026",
         "metric": "max_temp",
-        "value": 34.2,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 36.0,
+        "station": "นครปฐม",
+        "province": "นครปฐม"
       }
     },
     {

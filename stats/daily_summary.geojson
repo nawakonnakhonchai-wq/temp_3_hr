@@ -306,6 +306,57 @@
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/02/2026",
+        "metric": "min_temp",
+        "value": 19.2,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "date": "07/02/2026",
+        "metric": "max_temp",
+        "value": 30.4,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.25222,
+          8.68417
+        ]
+      },
+      "properties": {
+        "date": "07/02/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 118.7,
+        "station": "ตะกั่วป่า",
+        "province": "พังงา"
+      }
     }
   ]
 }

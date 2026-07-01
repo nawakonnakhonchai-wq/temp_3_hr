@@ -278,16 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.97,
-          14.01167
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "07/01/2026",
         "metric": "max_temp",
-        "value": 36.0,
-        "station": "นครปฐม",
-        "province": "นครปฐม"
+        "value": 36.2,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

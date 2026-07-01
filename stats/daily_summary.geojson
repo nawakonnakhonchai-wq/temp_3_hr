@@ -319,7 +319,7 @@
       "properties": {
         "date": "07/02/2026",
         "metric": "min_temp",
-        "value": 19.2,
+        "value": 18.6,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -329,16 +329,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          104.77367,
+          17.27642
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_temp",
-        "value": 30.4,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 36.6,
+        "station": "นครพนม สกษ.",
+        "province": "นครพนม"
       }
     },
     {

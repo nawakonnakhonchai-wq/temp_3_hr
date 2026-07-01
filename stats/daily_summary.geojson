@@ -278,16 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "07/01/2026",
         "metric": "max_temp",
-        "value": 30.4,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 34.2,
+        "station": "กรุงเทพฯ บางนา สกษ.",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

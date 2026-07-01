@@ -295,16 +295,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.73303,
-          17.86717
+          98.25222,
+          8.68417
         ]
       },
       "properties": {
         "date": "07/01/2026",
         "metric": "max_rainfall_24hr",
-        "value": 122.7,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 124.0,
+        "station": "ตะกั่วป่า",
+        "province": "พังงา"
       }
     }
   ]

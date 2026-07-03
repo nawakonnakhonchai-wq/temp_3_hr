@@ -380,16 +380,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.03333,
+          15.8
         ]
       },
       "properties": {
         "date": "07/03/2026",
         "metric": "max_temp",
-        "value": 29.7,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 30.6,
+        "station": "ชัยภูมิ",
+        "province": "ชัยภูมิ"
       }
     },
     {

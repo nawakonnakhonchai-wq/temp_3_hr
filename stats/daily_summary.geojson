@@ -431,16 +431,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          101.18736,
+          15.26667
         ]
       },
       "properties": {
         "date": "07/04/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.8,
+        "station": "บัวชุม",
+        "province": "ลพบุรี"
       }
     },
     {
@@ -455,7 +455,7 @@
       "properties": {
         "date": "07/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 172.9,
+        "value": 192.4,
         "station": "นครพนม",
         "province": "นครพนม"
       }

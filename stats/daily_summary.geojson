@@ -523,7 +523,7 @@
       "properties": {
         "date": "07/06/2026",
         "metric": "min_temp",
-        "value": 18.1,
+        "value": 17.9,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -557,7 +557,7 @@
       "properties": {
         "date": "07/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 107.4,
+        "value": 109.6,
         "station": "สัตหีบ",
         "province": "ชลบุรี"
       }

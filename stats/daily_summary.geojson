@@ -540,7 +540,7 @@
       "properties": {
         "date": "07/06/2026",
         "metric": "max_temp",
-        "value": 33.5,
+        "value": 36.0,
         "station": "พัทลุง สกษ.",
         "province": "พัทลุง"
       }
@@ -550,16 +550,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          12.68333
+          101.39278,
+          14.36222
         ]
       },
       "properties": {
         "date": "07/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 110.1,
-        "station": "สัตหีบ",
-        "province": "ชลบุรี"
+        "value": 123.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     }
   ]

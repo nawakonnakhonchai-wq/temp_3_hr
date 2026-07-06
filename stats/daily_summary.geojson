@@ -550,16 +550,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          104.77367,
+          17.27642
         ]
       },
       "properties": {
         "date": "07/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 123.4,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 129.4,
+        "station": "นครพนม สกษ.",
+        "province": "นครพนม"
       }
     }
   ]

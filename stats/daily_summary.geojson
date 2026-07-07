@@ -584,16 +584,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "07/07/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.9,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {
@@ -608,7 +608,7 @@
       "properties": {
         "date": "07/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 139.0,
+        "value": 139.5,
         "station": "นครพนม สกษ.",
         "province": "นครพนม"
       }

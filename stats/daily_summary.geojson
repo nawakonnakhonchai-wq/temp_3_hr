@@ -635,16 +635,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.1,
+          10.33333
         ]
       },
       "properties": {
         "date": "07/08/2026",
         "metric": "max_temp",
-        "value": 31.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.4,
+        "station": "สวี สกษ.",
+        "province": "ชุมพร"
       }
     },
     {

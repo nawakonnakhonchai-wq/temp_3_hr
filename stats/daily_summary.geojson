@@ -686,16 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.34075,
-          12.63369
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "07/09/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "ระยอง",
-        "province": "ระยอง"
+        "value": 35.6,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {

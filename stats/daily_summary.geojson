@@ -737,16 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.9625,
+          12.58611
         ]
       },
       "properties": {
         "date": "07/10/2026",
         "metric": "max_temp",
-        "value": 30.8,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.1,
+        "station": "หัวหิน",
+        "province": "ประจวบคีรีขันธ์"
       }
     },
     {
@@ -761,7 +761,7 @@
       "properties": {
         "date": "07/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 39.4,
+        "value": 49.4,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

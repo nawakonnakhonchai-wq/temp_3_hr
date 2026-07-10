@@ -737,16 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9625,
-          12.58611
+          100.06056,
+          12.99944
         ]
       },
       "properties": {
         "date": "07/10/2026",
         "metric": "max_temp",
-        "value": 34.1,
-        "station": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์"
+        "value": 36.7,
+        "station": "เพชรบุรี",
+        "province": "เพชรบุรี"
       }
     },
     {
@@ -761,7 +761,7 @@
       "properties": {
         "date": "07/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 49.4,
+        "value": 70.3,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

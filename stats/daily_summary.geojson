@@ -765,6 +765,57 @@
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.39278,
+          14.36222
+        ]
+      },
+      "properties": {
+        "date": "07/11/2026",
+        "metric": "min_temp",
+        "value": 20.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "date": "07/11/2026",
+        "metric": "max_temp",
+        "value": 31.0,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.51667,
+          18.28333
+        ]
+      },
+      "properties": {
+        "date": "07/11/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 40.9,
+        "station": "ลำปาง",
+        "province": "ลำปาง"
+      }
     }
   ]
 }

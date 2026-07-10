@@ -771,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "07/11/2026",
         "metric": "min_temp",
-        "value": 20.4,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 17.2,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -805,16 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.51667,
-          18.28333
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "07/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 40.9,
-        "station": "ลำปาง",
-        "province": "ลำปาง"
+        "value": 45.5,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     }
   ]

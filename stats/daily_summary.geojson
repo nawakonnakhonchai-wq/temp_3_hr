@@ -788,16 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "07/11/2026",
         "metric": "max_temp",
-        "value": 33.2,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 35.5,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {

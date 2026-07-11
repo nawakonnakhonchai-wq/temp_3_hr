@@ -788,16 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "07/11/2026",
         "metric": "max_temp",
-        "value": 31.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 33.2,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {
@@ -805,16 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
+          98.63639,
+          14.74222
         ]
       },
       "properties": {
         "date": "07/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 45.5,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
+        "value": 56.1,
+        "station": "ทองผาภูมิ",
+        "province": "กาญจนบุรี"
       }
     }
   ]

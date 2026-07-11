@@ -829,7 +829,7 @@
       "properties": {
         "date": "07/12/2026",
         "metric": "min_temp",
-        "value": 18.9,
+        "value": 18.5,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -839,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "07/12/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 30.2,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -856,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.63639,
-          14.74222
+          104.77367,
+          17.27642
         ]
       },
       "properties": {
         "date": "07/12/2026",
         "metric": "max_rainfall_24hr",
-        "value": 60.0,
-        "station": "ทองผาภูมิ",
-        "province": "กาญจนบุรี"
+        "value": 66.0,
+        "station": "นครพนม สกษ.",
+        "province": "นครพนม"
       }
     }
   ]

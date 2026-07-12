@@ -839,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.13236,
-          15.67183
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "07/12/2026",
         "metric": "max_temp",
-        "value": 33.1,
-        "station": "นครสวรรค์",
-        "province": "นครสวรรค์"
+        "value": 35.3,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -863,7 +863,7 @@
       "properties": {
         "date": "07/12/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.4,
+        "value": 81.3,
         "station": "นครพนม สกษ.",
         "province": "นครพนม"
       }

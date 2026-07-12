@@ -839,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.13236,
+          15.67183
         ]
       },
       "properties": {
         "date": "07/12/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 33.1,
+        "station": "นครสวรรค์",
+        "province": "นครสวรรค์"
       }
     },
     {
@@ -863,7 +863,7 @@
       "properties": {
         "date": "07/12/2026",
         "metric": "max_rainfall_24hr",
-        "value": 66.0,
+        "value": 76.4,
         "station": "นครพนม สกษ.",
         "province": "นครพนม"
       }

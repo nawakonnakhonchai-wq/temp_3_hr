@@ -890,16 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5,
-          7.0
+          102.08603,
+          14.9683
         ]
       },
       "properties": {
         "date": "07/13/2026",
         "metric": "max_temp",
-        "value": 34.2,
-        "station": "คอหงษ์ สกษ.",
-        "province": "สงขลา"
+        "value": 35.0,
+        "station": "นครราชสีมา",
+        "province": "นครราชสีมา"
       }
     },
     {

@@ -931,7 +931,7 @@
       "properties": {
         "date": "07/14/2026",
         "metric": "min_temp",
-        "value": 18.3,
+        "value": 18.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -948,7 +948,7 @@
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 30.0,
+        "value": 30.1,
         "station": "ภูเก็ต (ศูนย์ฯ)",
         "province": "ภูเก็ต"
       }

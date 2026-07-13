@@ -890,16 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          100.08333,
+          6.65
         ]
       },
       "properties": {
         "date": "07/13/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 33.0,
+        "station": "สตูล",
+        "province": "สตูล"
       }
     },
     {

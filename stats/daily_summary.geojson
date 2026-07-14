@@ -941,16 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.79239,
-          13.48931
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 32.9,
-        "station": "ราชบุรี",
-        "province": "ราชบุรี"
+        "value": 35.6,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {
@@ -965,7 +965,7 @@
       "properties": {
         "date": "07/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 72.4,
+        "value": 76.2,
         "station": "นครนายก",
         "province": "นครนายก"
       }

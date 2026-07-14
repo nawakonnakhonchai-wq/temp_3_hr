@@ -941,16 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          99.79239,
+          13.48931
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 32.9,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
       }
     },
     {
@@ -965,7 +965,7 @@
       "properties": {
         "date": "07/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 70.6,
+        "value": 72.4,
         "station": "นครนายก",
         "province": "นครนายก"
       }

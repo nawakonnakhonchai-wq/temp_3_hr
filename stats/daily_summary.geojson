@@ -992,15 +992,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.98333,
+          13.36667
         ]
       },
       "properties": {
         "date": "07/15/2026",
         "metric": "max_temp",
-        "value": 29.7,
-        "station": "เกาะสีชัง",
+        "value": 30.5,
+        "station": "ชลบุรี",
         "province": "ชลบุรี"
       }
     },

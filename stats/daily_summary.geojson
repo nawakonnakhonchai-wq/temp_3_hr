@@ -1043,16 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_temp",
-        "value": 33.3,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.7,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {

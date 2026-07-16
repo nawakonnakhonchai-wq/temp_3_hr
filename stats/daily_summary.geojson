@@ -1060,16 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5,
-          7.0
+          102.50417,
+          13.68869
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_rainfall_24hr",
-        "value": 64.4,
-        "station": "คอหงษ์ สกษ.",
-        "province": "สงขลา"
+        "value": 105.8,
+        "station": "อรัญประเทศ",
+        "province": "สระแก้ว"
       }
     }
   ]

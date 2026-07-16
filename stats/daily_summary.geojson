@@ -1043,16 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_temp",
-        "value": 29.6,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 33.3,
+        "station": "กรุงเทพฯ บางนา สกษ.",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

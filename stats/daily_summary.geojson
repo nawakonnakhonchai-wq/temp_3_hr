@@ -1084,7 +1084,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "min_temp",
-        "value": 18.2,
+        "value": 18.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1101,7 +1101,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "max_temp",
-        "value": 29.5,
+        "value": 29.7,
         "station": "เกาะสีชัง",
         "province": "ชลบุรี"
       }
@@ -1118,7 +1118,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 82.2,
+        "value": 82.4,
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }

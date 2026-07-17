@@ -1084,7 +1084,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "min_temp",
-        "value": 18.0,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1094,16 +1094,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.11333,
+          12.61667
         ]
       },
       "properties": {
         "date": "07/17/2026",
         "metric": "max_temp",
-        "value": 29.7,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.4,
+        "station": "จันทบุรี",
+        "province": "จันทบุรี"
       }
     },
     {
@@ -1118,7 +1118,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 82.4,
+        "value": 86.8,
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }

@@ -1094,16 +1094,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.11333,
-          12.61667
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "07/17/2026",
         "metric": "max_temp",
-        "value": 34.4,
-        "station": "จันทบุรี",
-        "province": "จันทบุรี"
+        "value": 36.2,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1118,7 +1118,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 86.8,
+        "value": 87.1,
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }

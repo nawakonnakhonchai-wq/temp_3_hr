@@ -1122,6 +1122,57 @@
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/18/2026",
+        "metric": "min_temp",
+        "value": 18.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03222,
+          13.40778
+        ]
+      },
+      "properties": {
+        "date": "07/18/2026",
+        "metric": "max_temp",
+        "value": 29.2,
+        "station": "สมุทรสงคราม",
+        "province": "สมุทรสงคราม"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03361,
+          9.45097
+        ]
+      },
+      "properties": {
+        "date": "07/18/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 42.4,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
     }
   ]
 }

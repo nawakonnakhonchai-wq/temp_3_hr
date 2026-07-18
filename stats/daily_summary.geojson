@@ -1173,6 +1173,57 @@
         "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/19/2026",
+        "metric": "min_temp",
+        "value": 18.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "07/19/2026",
+        "metric": "max_temp",
+        "value": 29.9,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74389,
+          16.02
+        ]
+      },
+      "properties": {
+        "date": "07/19/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 36.0,
+        "station": "ร้อยเอ็ด",
+        "province": "ร้อยเอ็ด"
+      }
     }
   ]
 }

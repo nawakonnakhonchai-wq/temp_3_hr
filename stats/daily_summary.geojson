@@ -1145,16 +1145,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.13236,
-          15.67183
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "07/18/2026",
         "metric": "max_temp",
-        "value": 33.6,
-        "station": "นครสวรรค์",
-        "province": "นครสวรรค์"
+        "value": 36.6,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

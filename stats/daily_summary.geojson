@@ -1196,16 +1196,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.1,
-          10.33333
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "07/19/2026",
         "metric": "max_temp",
-        "value": 34.1,
-        "station": "สวี สกษ.",
-        "province": "ชุมพร"
+        "value": 36.9,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {

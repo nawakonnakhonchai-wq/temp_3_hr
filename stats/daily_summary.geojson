@@ -1224,6 +1224,57 @@
         "station": "กาฬสินธุ์",
         "province": "กาฬสินธุ์"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/20/2026",
+        "metric": "min_temp",
+        "value": 17.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "07/20/2026",
+        "metric": "max_temp",
+        "value": 29.9,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58833,
+          16.3325
+        ]
+      },
+      "properties": {
+        "date": "07/20/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 38.0,
+        "station": "กาฬสินธุ์",
+        "province": "กาฬสินธุ์"
+      }
     }
   ]
 }

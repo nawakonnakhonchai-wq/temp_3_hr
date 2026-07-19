@@ -1196,16 +1196,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.86472,
-          14.30361
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "07/19/2026",
         "metric": "max_temp",
-        "value": 36.9,
-        "station": "อู่ทอง สกษ.",
-        "province": "สุพรรณบุรี"
+        "value": 37.8,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

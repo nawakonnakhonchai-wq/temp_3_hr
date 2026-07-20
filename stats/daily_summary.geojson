@@ -1247,16 +1247,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.87389,
-          13.07803
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "07/20/2026",
         "metric": "max_temp",
-        "value": 33.8,
-        "station": "แหลมฉบัง",
-        "province": "ชลบุรี"
+        "value": 37.0,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

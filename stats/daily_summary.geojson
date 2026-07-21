@@ -1298,16 +1298,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.1,
-          10.33333
+          100.87389,
+          13.07803
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_temp",
-        "value": 33.7,
-        "station": "สวี สกษ.",
-        "province": "ชุมพร"
+        "value": 36.2,
+        "station": "แหลมฉบัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1315,16 +1315,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.11333,
-          12.61667
+          98.55083,
+          16.65917
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 20.0,
-        "station": "จันทบุรี",
-        "province": "จันทบุรี"
+        "value": 24.0,
+        "station": "แม่สอด",
+        "province": "ตาก"
       }
     }
   ]

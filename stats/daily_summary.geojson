@@ -1339,7 +1339,7 @@
       "properties": {
         "date": "07/22/2026",
         "metric": "min_temp",
-        "value": 18.1,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1366,16 +1366,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03361,
-          9.45097
+          101.39278,
+          14.36222
         ]
       },
       "properties": {
         "date": "07/22/2026",
         "metric": "max_rainfall_24hr",
-        "value": 31.8,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 80.2,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     }
   ]

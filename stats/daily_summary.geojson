@@ -1288,7 +1288,7 @@
       "properties": {
         "date": "07/21/2026",
         "metric": "min_temp",
-        "value": 17.7,
+        "value": 17.5,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1298,16 +1298,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.87389,
-          13.07803
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_temp",
-        "value": 36.2,
-        "station": "แหลมฉบัง",
-        "province": "ชลบุรี"
+        "value": 36.3,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {

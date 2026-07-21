@@ -1298,16 +1298,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.61667,
-          14.1
+          99.1,
+          10.33333
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_temp",
-        "value": 30.5,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
+        "value": 33.7,
+        "station": "สวี สกษ.",
+        "province": "ชุมพร"
       }
     },
     {
@@ -1322,7 +1322,7 @@
       "properties": {
         "date": "07/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 14.8,
+        "value": 20.0,
         "station": "จันทบุรี",
         "province": "จันทบุรี"
       }

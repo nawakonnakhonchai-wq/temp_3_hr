@@ -1349,16 +1349,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.59944,
+          13.37722
         ]
       },
       "properties": {
         "date": "07/22/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 30.3,
+        "station": "นำร่อง",
+        "province": "สมุทรปราการ"
       }
     },
     {
@@ -1373,7 +1373,7 @@
       "properties": {
         "date": "07/22/2026",
         "metric": "max_rainfall_24hr",
-        "value": 80.2,
+        "value": 81.0,
         "station": "นครนายก",
         "province": "นครนายก"
       }

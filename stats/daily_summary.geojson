@@ -1349,16 +1349,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.1,
-          10.33333
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "07/22/2026",
         "metric": "max_temp",
-        "value": 36.2,
-        "station": "สวี สกษ.",
-        "province": "ชุมพร"
+        "value": 36.5,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {

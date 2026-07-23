@@ -1400,16 +1400,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "07/23/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 36.4,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

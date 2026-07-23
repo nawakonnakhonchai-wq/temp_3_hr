@@ -1400,16 +1400,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.34075,
-          12.63369
+          98.31444,
+          8.145
         ]
       },
       "properties": {
         "date": "07/23/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "ระยอง",
-        "province": "ระยอง"
+        "value": 30.2,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
       }
     },
     {

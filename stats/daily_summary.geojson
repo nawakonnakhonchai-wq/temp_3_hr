@@ -1451,15 +1451,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.98333,
+          13.36667
         ]
       },
       "properties": {
         "date": "07/24/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "เกาะสีชัง",
+        "value": 34.0,
+        "station": "ชลบุรี",
         "province": "ชลบุรี"
       }
     },

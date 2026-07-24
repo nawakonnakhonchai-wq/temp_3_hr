@@ -1451,16 +1451,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          13.36667
+          100.7675,
+          13.68639
         ]
       },
       "properties": {
         "date": "07/24/2026",
         "metric": "max_temp",
-        "value": 34.0,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
+        "value": 36.7,
+        "station": "สนามบินสุวรรณภูมิ",
+        "province": "สมุทรปราการ"
       }
     },
     {
@@ -1468,16 +1468,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.0235,
-          15.23914
+          102.87808,
+          11.78033
         ]
       },
       "properties": {
         "date": "07/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 125.1,
-        "station": "อุบลราชธานี สกษ.",
-        "province": "อุบลราชธานี"
+        "value": 147.2,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     }
   ]

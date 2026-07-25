@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "07/25/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.1,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

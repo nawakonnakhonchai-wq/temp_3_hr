@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          99.51667,
+          18.28333
         ]
       },
       "properties": {
         "date": "07/26/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 36.0,
+        "station": "ลำปาง",
+        "province": "ลำปาง"
       }
     },
     {

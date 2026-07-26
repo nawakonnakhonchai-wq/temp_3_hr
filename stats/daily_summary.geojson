@@ -30,7 +30,7 @@
       "properties": {
         "date": "06/26/2026",
         "metric": "max_temp",
-        "value": 37.2,
+        "value": 33.9,
         "station": "ร้อยเอ็ด",
         "province": "ร้อยเอ็ด"
       }
@@ -1560,7 +1560,7 @@
       "properties": {
         "date": "07/26/2026",
         "metric": "max_temp",
-        "value": 36.0,
+        "value": 36.1,
         "station": "ลำปาง",
         "province": "ลำปาง"
       }

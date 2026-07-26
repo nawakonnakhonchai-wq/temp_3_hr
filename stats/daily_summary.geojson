@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.74389,
-          16.02
+          102.73303,
+          17.86717
         ]
       },
       "properties": {
         "date": "06/26/2026",
         "metric": "max_temp",
-        "value": 33.9,
-        "station": "ร้อยเอ็ด",
-        "province": "ร้อยเอ็ด"
+        "value": 31.8,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {

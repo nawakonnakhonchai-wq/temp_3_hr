@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          13.36667
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "07/27/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
+        "value": 33.7,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {

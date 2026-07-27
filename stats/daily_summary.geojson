@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.06805,
-          16.24722
+          102.03333,
+          15.8
         ]
       },
       "properties": {
         "date": "06/27/2026",
         "metric": "max_temp",
         "value": 36.5,
-        "station": "มหาสารคาม",
-        "province": "มหาสารคาม"
+        "station": "ชัยภูมิ",
+        "province": "ชัยภูมิ"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.86472,
-          14.30361
+          100.53028,
+          15.34944
         ]
       },
       "properties": {
         "date": "07/27/2026",
         "metric": "max_temp",
-        "value": 33.7,
-        "station": "อู่ทอง สกษ.",
-        "province": "สุพรรณบุรี"
+        "value": 34.8,
+        "station": "ตากฟ้า สกษ.",
+        "province": "นครสวรรค์"
       }
     },
     {

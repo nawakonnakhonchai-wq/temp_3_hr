@@ -1530,6 +1530,57 @@
         "station": "เชียงราย",
         "province": "เชียงราย"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "07/28/2026",
+        "metric": "min_temp",
+        "value": 18.8,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "07/28/2026",
+        "metric": "max_temp",
+        "value": 30.2,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0235,
+          15.23914
+        ]
+      },
+      "properties": {
+        "date": "07/28/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 72.4,
+        "station": "อุบลราชธานี สกษ.",
+        "province": "อุบลราชธานี"
+      }
     }
   ]
 }

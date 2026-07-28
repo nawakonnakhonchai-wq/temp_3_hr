@@ -30,7 +30,7 @@
       "properties": {
         "date": "06/28/2026",
         "metric": "max_temp",
-        "value": 34.1,
+        "value": 31.4,
         "station": "อุตรดิตถ์",
         "province": "อุตรดิตถ์"
       }
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.77367,
-          17.27642
+          102.87808,
+          11.78033
         ]
       },
       "properties": {
         "date": "07/28/2026",
         "metric": "max_rainfall_24hr",
-        "value": 98.1,
-        "station": "นครพนม สกษ.",
-        "province": "นครพนม"
+        "value": 102.4,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     }
   ]

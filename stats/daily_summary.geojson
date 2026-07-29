@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          102.03333,
+          15.8
         ]
       },
       "properties": {
         "date": "06/29/2026",
         "metric": "max_temp",
-        "value": 35.9,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 30.0,
+        "station": "ชัยภูมิ",
+        "province": "ชัยภูมิ"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "06/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 137.9,
+        "value": 78.7,
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }

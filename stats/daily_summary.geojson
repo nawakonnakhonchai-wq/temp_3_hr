@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.16861,
-          14.71889
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "06/29/2026",
         "metric": "max_temp",
-        "value": 36.9,
-        "station": "โชคชัย",
-        "province": "นครราชสีมา"
+        "value": 35.9,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "06/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 138.5,
+        "value": 137.9,
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.3693,
-          14.05842
+          100.7675,
+          13.68639
         ]
       },
       "properties": {
         "date": "07/29/2026",
         "metric": "max_temp",
-        "value": 31.6,
-        "station": "ปราจีนบุรี",
-        "province": "ปราจีนบุรี"
+        "value": 35.6,
+        "station": "สนามบินสุวรรณภูมิ",
+        "province": "สมุทรปราการ"
       }
     },
     {

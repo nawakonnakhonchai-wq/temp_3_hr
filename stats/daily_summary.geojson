@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9625,
-          12.58611
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_temp",
-        "value": 35.0,
-        "station": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์"
+        "value": 32.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.79239,
-          13.48931
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "07/30/2026",
         "metric": "max_temp",
-        "value": 34.4,
-        "station": "ราชบุรี",
-        "province": "ราชบุรี"
+        "value": 35.7,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

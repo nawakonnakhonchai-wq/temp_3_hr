@@ -13,7 +13,7 @@
       "properties": {
         "date": "06/30/2026",
         "metric": "min_temp",
-        "value": 19.3,
+        "value": 20.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "07/30/2026",
         "metric": "min_temp",
-        "value": 17.8,
+        "value": 17.6,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

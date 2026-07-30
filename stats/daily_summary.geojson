@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.79239,
-          13.48931
+          99.9625,
+          12.58611
         ]
       },
       "properties": {
         "date": "06/30/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "ราชบุรี",
-        "province": "ราชบุรี"
+        "value": 35.0,
+        "station": "หัวหิน",
+        "province": "ประจวบคีรีขันธ์"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.79239,
+          13.48931
         ]
       },
       "properties": {
         "date": "07/30/2026",
         "metric": "max_temp",
-        "value": 32.7,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.4,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
       }
     },
     {

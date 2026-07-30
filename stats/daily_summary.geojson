@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "06/30/2026",
-        "metric": "min_temp",
-        "value": 20.4,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61667,
-          14.1
-        ]
-      },
-      "properties": {
-        "date": "06/30/2026",
-        "metric": "max_temp",
-        "value": 32.0,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.73303,
-          17.86717
-        ]
-      },
-      "properties": {
-        "date": "06/30/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 69.6,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/01/2026",
         "metric": "min_temp",
         "value": 18.5,

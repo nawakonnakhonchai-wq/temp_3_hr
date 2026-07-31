@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.53583,
-          14.0225
+          102.16861,
+          14.71889
         ]
       },
       "properties": {
         "date": "07/01/2026",
         "metric": "max_temp",
-        "value": 36.2,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
+        "value": 32.0,
+        "station": "โชคชัย",
+        "province": "นครราชสีมา"
       }
     },
     {

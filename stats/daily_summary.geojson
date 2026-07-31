@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/01/2026",
-        "metric": "min_temp",
-        "value": 20.1,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.80194,
-          13.16167
-        ]
-      },
-      "properties": {
-        "date": "07/01/2026",
-        "metric": "max_temp",
-        "value": 30.0,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.25222,
-          8.68417
-        ]
-      },
-      "properties": {
-        "date": "07/01/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 133.0,
-        "station": "ตะกั่วป่า",
-        "province": "พังงา"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/02/2026",
         "metric": "min_temp",
         "value": 18.6,
@@ -1580,6 +1529,57 @@
         "value": 126.4,
         "station": "เชียงราย สกษ.",
         "province": "เชียงราย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/01/2026",
+        "metric": "min_temp",
+        "value": 19.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "08/01/2026",
+        "metric": "max_temp",
+        "value": 29.7,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.17305,
+          12.50861
+        ]
+      },
+      "properties": {
+        "date": "08/01/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 120.0,
+        "station": "พลิ้ว สกษ.",
+        "province": "จันทบุรี"
       }
     }
   ]

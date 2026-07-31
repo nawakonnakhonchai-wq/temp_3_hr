@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.25222,
-          8.68417
+          98.4,
+          7.88333
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 118.7,
-        "station": "ตะกั่วป่า",
-        "province": "พังงา"
+        "value": 108.4,
+        "station": "ภูเก็ต",
+        "province": "ภูเก็ต"
       }
     },
     {
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "08/01/2026",
         "metric": "min_temp",
-        "value": 19.0,
+        "value": 18.6,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1560,7 +1560,7 @@
       "properties": {
         "date": "08/01/2026",
         "metric": "max_temp",
-        "value": 29.7,
+        "value": 29.9,
         "station": "ตาก",
         "province": "ตาก"
       }

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_temp",
-        "value": 32.6,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 30.0,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 96.0,
+        "value": 95.2,
         "station": "ระนอง",
         "province": "ระนอง"
       }

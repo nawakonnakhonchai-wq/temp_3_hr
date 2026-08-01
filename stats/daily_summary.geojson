@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.16861,
-          14.71889
+          100.13236,
+          15.67183
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_temp",
-        "value": 36.4,
-        "station": "โชคชัย",
-        "province": "นครราชสีมา"
+        "value": 35.9,
+        "station": "นครสวรรค์",
+        "province": "นครสวรรค์"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.87808,
-          11.78033
+          98.61667,
+          9.98333
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 96.4,
-        "station": "ตราด",
-        "province": "ตราด"
+        "value": 96.0,
+        "station": "ระนอง",
+        "province": "ระนอง"
       }
     },
     {

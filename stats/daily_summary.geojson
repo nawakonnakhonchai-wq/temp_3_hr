@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.13236,
-          15.67183
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "07/02/2026",
         "metric": "max_temp",
-        "value": 35.9,
-        "station": "นครสวรรค์",
-        "province": "นครสวรรค์"
+        "value": 32.6,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "08/02/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 33.2,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "08/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.1,
+        "value": 84.5,
         "station": "นครพนม สกษ.",
         "province": "นครพนม"
       }

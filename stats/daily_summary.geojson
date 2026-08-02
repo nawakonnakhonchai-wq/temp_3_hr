@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "08/02/2026",
         "metric": "max_temp",
-        "value": 33.2,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 35.1,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "08/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 84.5,
+        "value": 92.0,
         "station": "นครพนม สกษ.",
         "province": "นครพนม"
       }

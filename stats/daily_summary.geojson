@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.18736,
-          15.26667
+          101.108,
+          15.657
         ]
       },
       "properties": {
         "date": "07/04/2026",
         "metric": "max_temp",
-        "value": 34.8,
-        "station": "บัวชุม",
-        "province": "ลพบุรี"
+        "value": 34.3,
+        "station": "วิเชียรบุรี",
+        "province": "เพชรบูรณ์"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 192.4,
+        "value": 191.0,
         "station": "นครพนม",
         "province": "นครพนม"
       }
@@ -1560,7 +1560,7 @@
       "properties": {
         "date": "08/03/2026",
         "metric": "max_temp",
-        "value": 36.5,
+        "value": 37.3,
         "station": "กาญจนบุรี",
         "province": "กาญจนบุรี"
       }

@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7825,
-          17.41083
+          102.17305,
+          12.50861
         ]
       },
       "properties": {
         "date": "07/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 127.0,
-        "station": "นครพนม",
-        "province": "นครพนม"
+        "value": 76.8,
+        "station": "พลิ้ว สกษ.",
+        "province": "จันทบุรี"
       }
     },
     {
@@ -1529,6 +1529,57 @@
         "value": 90.3,
         "station": "เชียงราย",
         "province": "เชียงราย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/04/2026",
+        "metric": "min_temp",
+        "value": 19.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "08/04/2026",
+        "metric": "max_temp",
+        "value": 30.2,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51672,
+          18.41361
+        ]
+      },
+      "properties": {
+        "date": "08/04/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 71.4,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     }
   ]

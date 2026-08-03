@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          12.68333
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "08/03/2026",
         "metric": "max_temp",
-        "value": 34.6,
-        "station": "สัตหีบ",
-        "province": "ชลบุรี"
+        "value": 36.5,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

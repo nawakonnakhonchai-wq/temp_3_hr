@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.108,
-          15.657
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "07/04/2026",
         "metric": "max_temp",
-        "value": 34.3,
-        "station": "วิเชียรบุรี",
-        "province": "เพชรบูรณ์"
+        "value": 29.3,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 191.0,
+        "value": 189.9,
         "station": "นครพนม",
         "province": "นครพนม"
       }

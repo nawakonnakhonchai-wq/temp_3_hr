@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.8,
+        "value": 63.4,
         "station": "พลิ้ว สกษ.",
         "province": "จันทบุรี"
       }
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "08/04/2026",
         "metric": "min_temp",
-        "value": 19.0,
+        "value": 18.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          101.39278,
+          14.36222
         ]
       },
       "properties": {
         "date": "08/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 71.4,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 102.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     }
   ]

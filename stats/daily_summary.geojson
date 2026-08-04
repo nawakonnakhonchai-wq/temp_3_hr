@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          101.108,
+          15.657
         ]
       },
       "properties": {
         "date": "07/05/2026",
         "metric": "max_temp",
-        "value": 35.8,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 32.8,
+        "station": "วิเชียรบุรี",
+        "province": "เพชรบูรณ์"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.97,
-          14.01167
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "08/04/2026",
         "metric": "max_temp",
-        "value": 35.2,
-        "station": "นครปฐม",
-        "province": "นครปฐม"
+        "value": 35.9,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

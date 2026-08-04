@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.108,
-          15.657
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "07/05/2026",
         "metric": "max_temp",
-        "value": 32.8,
-        "station": "วิเชียรบุรี",
-        "province": "เพชรบูรณ์"
+        "value": 30.4,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          103.45,
+          14.88333
         ]
       },
       "properties": {
         "date": "07/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 56.0,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 35.8,
+        "station": "สุรินทร์ สกษ.",
+        "province": "สุรินทร์"
       }
     },
     {

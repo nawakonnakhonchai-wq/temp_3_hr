@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          103.51672,
+          18.41361
         ]
       },
       "properties": {
         "date": "07/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 63.4,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 56.0,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          99.97,
+          14.01167
         ]
       },
       "properties": {
         "date": "08/04/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 35.2,
+        "station": "นครปฐม",
+        "province": "นครปฐม"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          104.72889,
+          16.54139
         ]
       },
       "properties": {
         "date": "08/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 102.4,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 113.5,
+        "station": "มุกดาหาร",
+        "province": "มุกดาหาร"
       }
     }
   ]

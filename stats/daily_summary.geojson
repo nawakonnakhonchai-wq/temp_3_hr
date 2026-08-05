@@ -1530,6 +1530,57 @@
         "station": "บึงกาฬ",
         "province": "บึงกาฬ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/06/2026",
+        "metric": "min_temp",
+        "value": 18.2,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "08/06/2026",
+        "metric": "max_temp",
+        "value": 29.8,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51672,
+          18.41361
+        ]
+      },
+      "properties": {
+        "date": "08/06/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 109.6,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
+      }
     }
   ]
 }

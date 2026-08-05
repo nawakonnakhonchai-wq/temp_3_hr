@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "07/06/2026",
         "metric": "max_temp",
-        "value": 36.0,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 31.5,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.53583,
-          14.0225
+          100.13236,
+          15.67183
         ]
       },
       "properties": {
         "date": "08/05/2026",
         "metric": "max_temp",
-        "value": 36.0,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
+        "value": 36.3,
+        "station": "นครสวรรค์",
+        "province": "นครสวรรค์"
       }
     },
     {

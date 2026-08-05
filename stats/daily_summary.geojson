@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "08/05/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 33.5,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "08/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 99.4,
+        "value": 136.8,
         "station": "บึงกาฬ",
         "province": "บึงกาฬ"
       }

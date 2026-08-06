@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.61667,
-          14.1
+          99.63333,
+          9.1
         ]
       },
       "properties": {
         "date": "07/07/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
+        "value": 33.5,
+        "station": "สุราษฎร์ธานี สกษ.",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -40,15 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.77367,
-          17.27642
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "07/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 125.8,
-        "station": "นครพนม สกษ.",
+        "value": 123.0,
+        "station": "นครพนม",
         "province": "นครพนม"
       }
     },

@@ -11,60 +11,9 @@
         ]
       },
       "properties": {
-        "date": "07/07/2026",
-        "metric": "min_temp",
-        "value": 19.4,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.63333,
-          9.1
-        ]
-      },
-      "properties": {
-        "date": "07/07/2026",
-        "metric": "max_temp",
-        "value": 33.5,
-        "station": "สุราษฎร์ธานี สกษ.",
-        "province": "สุราษฎร์ธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.7825,
-          17.41083
-        ]
-      },
-      "properties": {
-        "date": "07/07/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 123.0,
-        "station": "นครพนม",
-        "province": "นครพนม"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/08/2026",
         "metric": "min_temp",
-        "value": 17.3,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -98,7 +47,7 @@
       "properties": {
         "date": "07/08/2026",
         "metric": "max_rainfall_24hr",
-        "value": 130.0,
+        "value": 129.6,
         "station": "พลิ้ว สกษ.",
         "province": "จันทบุรี"
       }
@@ -1578,6 +1527,57 @@
         "date": "08/06/2026",
         "metric": "max_rainfall_24hr",
         "value": 109.6,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.88353,
+          19.41194
+        ]
+      },
+      "properties": {
+        "date": "08/07/2026",
+        "metric": "min_temp",
+        "value": 23.3,
+        "station": "ทุ่งช้าง",
+        "province": "น่าน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "08/07/2026",
+        "metric": "max_temp",
+        "value": 29.4,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51672,
+          18.41361
+        ]
+      },
+      "properties": {
+        "date": "08/07/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 144.4,
         "station": "บึงกาฬ",
         "province": "บึงกาฬ"
       }

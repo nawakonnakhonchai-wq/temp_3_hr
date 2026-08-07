@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/08/2026",
-        "metric": "min_temp",
-        "value": 17.8,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.1,
-          10.33333
-        ]
-      },
-      "properties": {
-        "date": "07/08/2026",
-        "metric": "max_temp",
-        "value": 34.4,
-        "station": "สวี สกษ.",
-        "province": "ชุมพร"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.17305,
-          12.50861
-        ]
-      },
-      "properties": {
-        "date": "07/08/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 129.6,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/09/2026",
         "metric": "min_temp",
         "value": 17.0,
@@ -1553,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          99.51667,
+          18.28333
         ]
       },
       "properties": {
         "date": "08/07/2026",
         "metric": "max_temp",
-        "value": 29.4,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 33.0,
+        "station": "ลำปาง",
+        "province": "ลำปาง"
       }
     },
     {

@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.03389,
-          18.56722
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "08/07/2026",
         "metric": "max_temp",
-        "value": 35.0,
-        "station": "ลำพูน",
-        "province": "ลำพูน"
+        "value": 35.4,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {

@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.88353,
-          19.41194
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "08/07/2026",
         "metric": "min_temp",
-        "value": 23.3,
-        "station": "ทุ่งช้าง",
-        "province": "น่าน"
+        "value": 18.6,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {

@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/09/2026",
-        "metric": "min_temp",
-        "value": 17.0,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.605,
-          13.91917
-        ]
-      },
-      "properties": {
-        "date": "07/09/2026",
-        "metric": "max_temp",
-        "value": 30.9,
-        "station": "สนามบินดอนเมือง",
-        "province": "กรุงเทพมหานคร"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
-        "date": "07/09/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 30.2,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/10/2026",
         "metric": "min_temp",
         "value": 16.5,
@@ -1580,6 +1529,57 @@
         "value": 90.6,
         "station": "ลำปาง สกษ.",
         "province": "ลำปาง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/09/2026",
+        "metric": "min_temp",
+        "value": 17.9,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "08/09/2026",
+        "metric": "max_temp",
+        "value": 29.3,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.03389,
+          18.56722
+        ]
+      },
+      "properties": {
+        "date": "08/09/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 73.8,
+        "station": "ลำพูน",
+        "province": "ลำพูน"
       }
     }
   ]

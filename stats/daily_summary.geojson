@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.61667,
-          14.1
+          100.605,
+          13.91917
         ]
       },
       "properties": {
         "date": "07/09/2026",
         "metric": "max_temp",
-        "value": 32.5,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
+        "value": 30.9,
+        "station": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

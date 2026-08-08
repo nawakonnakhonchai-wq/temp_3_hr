@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "08/08/2026",
         "metric": "max_temp",
-        "value": 34.5,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 34.9,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {

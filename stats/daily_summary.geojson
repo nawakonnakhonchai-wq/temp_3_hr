@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.06056,
-          12.99944
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "07/10/2026",
         "metric": "max_temp",
-        "value": 36.7,
-        "station": "เพชรบุรี",
-        "province": "เพชรบุรี"
+        "value": 32.8,
+        "station": "กรุงเทพฯ บางนา สกษ.",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 70.3,
+        "value": 59.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "08/09/2026",
         "metric": "max_rainfall_24hr",
-        "value": 277.9,
+        "value": 292.1,
         "station": "นครพนม",
         "province": "นครพนม"
       }

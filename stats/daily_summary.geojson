@@ -30,7 +30,7 @@
       "properties": {
         "date": "07/11/2026",
         "metric": "max_temp",
-        "value": 35.4,
+        "value": 31.9,
         "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 69.8,
+        "value": 68.7,
         "station": "ทองผาภูมิ",
         "province": "กาญจนบุรี"
       }

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.15194,
-          9.13556
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "08/10/2026",
         "metric": "max_temp",
-        "value": 33.6,
-        "station": "สุราษฎร์ธานี",
-        "province": "สุราษฎร์ธานี"
+        "value": 35.1,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          99.15194,
+          9.13556
         ]
       },
       "properties": {
         "date": "08/10/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 33.6,
+        "station": "สุราษฎร์ธานี",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {

@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
-        "date": "07/12/2026",
-        "metric": "min_temp",
-        "value": 19.4,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03361,
-          9.45097
-        ]
-      },
-      "properties": {
-        "date": "07/12/2026",
-        "metric": "max_temp",
-        "value": 32.1,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.77367,
-          17.27642
-        ]
-      },
-      "properties": {
-        "date": "07/12/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 82.8,
-        "station": "นครพนม สกษ.",
-        "province": "นครพนม"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.39278,
           14.36222
         ]

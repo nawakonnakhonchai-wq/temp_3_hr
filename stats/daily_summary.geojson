@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "08/11/2026",
         "metric": "max_temp",
-        "value": 32.9,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 35.5,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {

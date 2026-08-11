@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "07/12/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 32.1,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "08/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 48.7,
+        "value": 50.5,
         "station": "แม่ฮ่องสอน",
         "province": "แม่ฮ่องสอน"
       }

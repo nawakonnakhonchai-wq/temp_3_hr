@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.08603,
-          14.9683
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "07/13/2026",
         "metric": "max_temp",
-        "value": 35.0,
-        "station": "นครราชสีมา",
-        "province": "นครราชสีมา"
+        "value": 30.6,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/13/2026",
         "metric": "max_rainfall_24hr",
-        "value": 122.7,
+        "value": 99.7,
         "station": "เชียงราย สกษ.",
         "province": "เชียงราย"
       }

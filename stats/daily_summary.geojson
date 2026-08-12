@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/13/2026",
-        "metric": "min_temp",
-        "value": 18.7,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56,
-          13.72639
-        ]
-      },
-      "properties": {
-        "date": "07/13/2026",
-        "metric": "max_temp",
-        "value": 29.5,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.78278,
-          19.87083
-        ]
-      },
-      "properties": {
-        "date": "07/13/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 99.7,
-        "station": "เชียงราย สกษ.",
-        "province": "เชียงราย"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/14/2026",
         "metric": "min_temp",
         "value": 18.0,
@@ -1529,6 +1478,57 @@
         "value": 50.5,
         "station": "แม่ฮ่องสอน",
         "province": "แม่ฮ่องสอน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/13/2026",
+        "metric": "min_temp",
+        "value": 18.5,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.34361,
+          12.63222
+        ]
+      },
+      "properties": {
+        "date": "08/13/2026",
+        "metric": "max_temp",
+        "value": 29.7,
+        "station": "ระยอง",
+        "province": "ระยอง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.94722,
+          8.53778
+        ]
+      },
+      "properties": {
+        "date": "08/13/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 27.0,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     }
   ]

@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "07/13/2026",
         "metric": "min_temp",
-        "value": 18.3,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 18.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          100.56,
+          13.72639
         ]
       },
       "properties": {
         "date": "07/13/2026",
         "metric": "max_temp",
-        "value": 30.6,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 29.5,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.061,
-          17.12503
+          100.03222,
+          13.40778
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 34.0,
-        "station": "สกลนคร สกษ.",
-        "province": "สกลนคร"
+        "value": 31.4,
+        "station": "สมุทรสงคราม",
+        "province": "สมุทรสงคราม"
       }
     },
     {

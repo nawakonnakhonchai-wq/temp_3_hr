@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          104.061,
+          17.12503
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 34.0,
+        "station": "สกลนคร สกษ.",
+        "province": "สกลนคร"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.39278,
-          14.36222
+          102.87808,
+          11.78033
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.2,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 75.4,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     },
     {
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          8.35931
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "08/13/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "นครศรีธรรมราช สกษ.",
-        "province": "นครศรีธรรมราช"
+        "value": 35.7,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {

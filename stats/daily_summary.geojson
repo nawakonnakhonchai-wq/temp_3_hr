@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03222,
-          13.40778
+          100.56,
+          13.72639
         ]
       },
       "properties": {
         "date": "07/14/2026",
         "metric": "max_temp",
-        "value": 31.4,
-        "station": "สมุทรสงคราม",
-        "province": "สมุทรสงคราม"
+        "value": 30.3,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 75.4,
+        "value": 73.6,
         "station": "ตราด",
         "province": "ตราด"
       }

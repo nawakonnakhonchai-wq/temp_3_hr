@@ -1492,7 +1492,7 @@
       "properties": {
         "date": "08/15/2026",
         "metric": "min_temp",
-        "value": 19.3,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "08/15/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.2,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 73.4,
+        "station": "นครพนม",
+        "province": "นครพนม"
       }
     }
   ]

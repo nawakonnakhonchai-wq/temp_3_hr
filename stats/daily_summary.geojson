@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          100.08333,
+          6.65
         ]
       },
       "properties": {
         "date": "08/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.4,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 53.4,
+        "station": "สตูล",
+        "province": "สตูล"
       }
     }
   ]

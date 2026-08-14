@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/15/2026",
-        "metric": "min_temp",
-        "value": 18.8,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.73303,
-          17.86717
-        ]
-      },
-      "properties": {
-        "date": "07/15/2026",
-        "metric": "max_temp",
-        "value": 29.6,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.39278,
-          14.36222
-        ]
-      },
-      "properties": {
-        "date": "07/15/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 80.6,
-        "station": "นครนายก",
-        "province": "นครนายก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/16/2026",
         "metric": "min_temp",
         "value": 18.0,
@@ -1529,6 +1478,57 @@
         "value": 59.6,
         "station": "สตูล",
         "province": "สตูล"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/15/2026",
+        "metric": "min_temp",
+        "value": 19.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "08/15/2026",
+        "metric": "max_temp",
+        "value": 30.3,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "08/15/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 46.2,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     }
   ]

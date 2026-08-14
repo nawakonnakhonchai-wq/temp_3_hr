@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "08/14/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 33.9,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 53.4,
+        "value": 59.6,
         "station": "สตูล",
         "province": "สตูล"
       }

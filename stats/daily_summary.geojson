@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.1,
-          10.33333
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "08/15/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "สวี สกษ.",
-        "province": "ชุมพร"
+        "value": 35.1,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {

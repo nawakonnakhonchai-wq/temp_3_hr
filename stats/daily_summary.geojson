@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.06056,
-          12.99944
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_temp",
-        "value": 31.5,
-        "station": "เพชรบุรี",
-        "province": "เพชรบุรี"
+        "value": 29.9,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.63333,
-          9.1
+          100.06056,
+          12.99944
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "สุราษฎร์ธานี สกษ.",
-        "province": "สุราษฎร์ธานี"
+        "value": 31.5,
+        "station": "เพชรบุรี",
+        "province": "เพชรบุรี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/16/2026",
         "metric": "max_rainfall_24hr",
-        "value": 105.8,
+        "value": 82.2,
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }

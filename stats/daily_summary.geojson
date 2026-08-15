@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          99.63333,
+          9.1
         ]
       },
       "properties": {
         "date": "07/16/2026",
         "metric": "max_temp",
-        "value": 35.7,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 35.5,
+        "station": "สุราษฎร์ธานี สกษ.",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/15/2026",
         "metric": "max_rainfall_24hr",
-        "value": 77.9,
+        "value": 78.9,
         "station": "นครพนม",
         "province": "นครพนม"
       }

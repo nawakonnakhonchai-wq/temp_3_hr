@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "08/16/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.0,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

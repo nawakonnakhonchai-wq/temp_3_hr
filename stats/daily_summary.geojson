@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03889,
-          15.37417
+          100.605,
+          13.91917
         ]
       },
       "properties": {
         "date": "07/17/2026",
         "metric": "max_temp",
-        "value": 32.7,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
+        "value": 30.3,
+        "station": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

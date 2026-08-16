@@ -13,7 +13,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "min_temp",
-        "value": 18.6,
+        "value": 18.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -30,7 +30,7 @@
       "properties": {
         "date": "07/17/2026",
         "metric": "max_temp",
-        "value": 35.7,
+        "value": 32.7,
         "station": "อุทัยธานี",
         "province": "อุทัยธานี"
       }
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "07/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 48.5,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 42.4,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {

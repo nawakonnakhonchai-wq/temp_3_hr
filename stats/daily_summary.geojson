@@ -13,7 +13,7 @@
       "properties": {
         "date": "07/18/2026",
         "metric": "min_temp",
-        "value": 16.9,
+        "value": 17.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          104.061,
+          17.12503
         ]
       },
       "properties": {
         "date": "08/17/2026",
         "metric": "max_temp",
-        "value": 30.2,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 34.4,
+        "station": "สกลนคร สกษ.",
+        "province": "สกลนคร"
       }
     },
     {

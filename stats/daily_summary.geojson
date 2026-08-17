@@ -1492,7 +1492,7 @@
       "properties": {
         "date": "08/18/2026",
         "metric": "min_temp",
-        "value": 19.0,
+        "value": 18.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          102.88333,
+          11.76667
         ]
       },
       "properties": {
         "date": "08/18/2026",
         "metric": "max_rainfall_24hr",
-        "value": 40.4,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 46.6,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     }
   ]

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03889,
-          15.37417
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "07/19/2026",
         "metric": "max_temp",
-        "value": 37.8,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
+        "value": 34.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {

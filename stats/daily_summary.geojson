@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "08/18/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 34.5,
+        "station": "กรุงเทพฯ บางนา สกษ.",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

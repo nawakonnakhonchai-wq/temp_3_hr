@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "08/18/2026",
         "metric": "max_temp",
-        "value": 34.5,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 36.2,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/18/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.6,
+        "value": 49.2,
         "station": "ตราด",
         "province": "ตราด"
       }

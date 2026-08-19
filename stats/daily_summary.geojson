@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          99.9625,
+          12.58611
         ]
       },
       "properties": {
         "date": "08/19/2026",
         "metric": "max_temp",
-        "value": 33.1,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.1,
+        "station": "หัวหิน",
+        "province": "ประจวบคีรีขันธ์"
       }
     },
     {

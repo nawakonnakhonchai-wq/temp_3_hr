@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.53583,
-          14.0225
+          99.97,
+          14.01167
         ]
       },
       "properties": {
         "date": "07/20/2026",
         "metric": "max_temp",
-        "value": 37.7,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
+        "value": 33.5,
+        "station": "นครปฐม",
+        "province": "นครปฐม"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.58833,
-          16.3325
+          102.11333,
+          12.61667
         ]
       },
       "properties": {
         "date": "07/20/2026",
         "metric": "max_rainfall_24hr",
-        "value": 38.0,
-        "station": "กาฬสินธุ์",
-        "province": "กาฬสินธุ์"
+        "value": 14.8,
+        "station": "จันทบุรี",
+        "province": "จันทบุรี"
       }
     },
     {

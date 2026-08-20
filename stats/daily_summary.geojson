@@ -13,7 +13,7 @@
       "properties": {
         "date": "07/21/2026",
         "metric": "min_temp",
-        "value": 18.5,
+        "value": 18.6,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.61667,
-          7.51667
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_temp",
-        "value": 33.2,
-        "station": "ตรัง",
-        "province": "ตรัง"
+        "value": 31.0,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.55083,
-          16.65917
+          97.97578,
+          19.29897
         ]
       },
       "properties": {
         "date": "07/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 20.7,
-        "station": "แม่สอด",
-        "province": "ตาก"
+        "value": 20.6,
+        "station": "แม่ฮ่องสอน",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {
@@ -1492,7 +1492,7 @@
       "properties": {
         "date": "08/20/2026",
         "metric": "min_temp",
-        "value": 19.0,
+        "value": 18.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

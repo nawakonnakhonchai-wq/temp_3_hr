@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "08/20/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 33.9,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {
@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.8025,
-          19.11056
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "08/20/2026",
         "metric": "max_rainfall_24hr",
-        "value": 117.3,
-        "station": "ท่าวังผา",
-        "province": "น่าน"
+        "value": 146.0,
+        "station": "นครพนม",
+        "province": "นครพนม"
       }
     }
   ]

@@ -1485,16 +1485,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "08/20/2026",
         "metric": "min_temp",
-        "value": 19.1,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 19.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {

@@ -1492,7 +1492,7 @@
       "properties": {
         "date": "08/21/2026",
         "metric": "min_temp",
-        "value": 18.8,
+        "value": 18.1,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1509,7 +1509,7 @@
       "properties": {
         "date": "08/21/2026",
         "metric": "max_temp",
-        "value": 29.2,
+        "value": 30.0,
         "station": "ภูเก็ต (ศูนย์ฯ)",
         "province": "ภูเก็ต"
       }
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 148.4,
+        "value": 174.4,
         "station": "ศรีสำโรง สกษ.",
         "province": "สุโขทัย"
       }

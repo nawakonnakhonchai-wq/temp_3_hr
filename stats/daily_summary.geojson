@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          102.16861,
+          14.71889
         ]
       },
       "properties": {
         "date": "07/22/2026",
         "metric": "max_temp",
-        "value": 36.5,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 33.0,
+        "station": "โชคชัย",
+        "province": "นครราชสีมา"
       }
     },
     {

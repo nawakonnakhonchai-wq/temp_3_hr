@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "08/21/2026",
         "metric": "max_temp",
-        "value": 32.8,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 36.2,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {

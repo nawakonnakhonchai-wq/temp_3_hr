@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.86667,
-          15.25
+          104.05,
+          15.0
         ]
       },
       "properties": {
         "date": "07/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.2,
-        "station": "อุบลราชธานี (ศูนย์ฯ)",
-        "province": "อุบลราชธานี"
+        "value": 68.0,
+        "station": "ศรีสะเกษ",
+        "province": "ศรีสะเกษ"
       }
     },
     {

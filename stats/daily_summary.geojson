@@ -30,7 +30,7 @@
       "properties": {
         "date": "07/23/2026",
         "metric": "max_temp",
-        "value": 32.5,
+        "value": 31.0,
         "station": "อุทัยธานี",
         "province": "อุทัยธานี"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.0,
+        "value": 67.5,
         "station": "ศรีสะเกษ",
         "province": "ศรีสะเกษ"
       }

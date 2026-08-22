@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/23/2026",
-        "metric": "min_temp",
-        "value": 19.1,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03889,
-          15.37417
-        ]
-      },
-      "properties": {
-        "date": "07/23/2026",
-        "metric": "max_temp",
-        "value": 31.0,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.05,
-          15.0
-        ]
-      },
-      "properties": {
-        "date": "07/23/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 67.5,
-        "station": "ศรีสะเกษ",
-        "province": "ศรีสะเกษ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/24/2026",
         "metric": "min_temp",
         "value": 18.1,
@@ -1529,6 +1478,57 @@
         "value": 68.2,
         "station": "แม่สอด",
         "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "08/23/2026",
+        "metric": "min_temp",
+        "value": 19.2,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "08/23/2026",
+        "metric": "max_temp",
+        "value": 29.2,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.58333,
+          13.7
+        ]
+      },
+      "properties": {
+        "date": "08/23/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 36.8,
+        "station": "อรัญประเทศ",
+        "province": "สระแก้ว"
       }
     }
   ]

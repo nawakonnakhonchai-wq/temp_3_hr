@@ -1485,16 +1485,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "08/23/2026",
         "metric": "min_temp",
-        "value": 19.2,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 18.5,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1509,7 +1509,7 @@
       "properties": {
         "date": "08/23/2026",
         "metric": "max_temp",
-        "value": 29.2,
+        "value": 29.3,
         "station": "ตาก",
         "province": "ตาก"
       }
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 36.8,
+        "value": 37.0,
         "station": "อรัญประเทศ",
         "province": "สระแก้ว"
       }

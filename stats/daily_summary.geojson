@@ -30,7 +30,7 @@
       "properties": {
         "date": "07/24/2026",
         "metric": "max_temp",
-        "value": 36.7,
+        "value": 36.4,
         "station": "สนามบินสุวรรณภูมิ",
         "province": "สมุทรปราการ"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "08/23/2026",
         "metric": "max_temp",
-        "value": 36.2,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 36.6,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {
@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.58333,
-          13.7
+          98.55083,
+          16.65917
         ]
       },
       "properties": {
         "date": "08/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 37.0,
-        "station": "อรัญประเทศ",
-        "province": "สระแก้ว"
+        "value": 79.0,
+        "station": "แม่สอด",
+        "province": "ตาก"
       }
     }
   ]

@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 145.0,
+        "value": 85.0,
         "station": "ตราด",
         "province": "ตราด"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "08/24/2026",
         "metric": "max_temp",
-        "value": 29.8,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 33.7,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 93.2,
+        "value": 94.7,
         "station": "แม่สอด",
         "province": "ตาก"
       }

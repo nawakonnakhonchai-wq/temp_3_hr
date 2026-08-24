@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          100.605,
+          13.91917
         ]
       },
       "properties": {
         "date": "07/25/2026",
         "metric": "max_temp",
-        "value": 33.0,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 30.6,
+        "station": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

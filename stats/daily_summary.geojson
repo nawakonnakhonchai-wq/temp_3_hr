@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.97694,
-          18.79
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "07/25/2026",
         "metric": "max_temp",
-        "value": 36.3,
-        "station": "เชียงใหม่",
-        "province": "เชียงใหม่"
+        "value": 33.0,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

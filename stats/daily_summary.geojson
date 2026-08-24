@@ -13,7 +13,7 @@
       "properties": {
         "date": "07/25/2026",
         "metric": "min_temp",
-        "value": 18.3,
+        "value": 18.9,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "07/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 227.8,
+        "value": 145.0,
         "station": "ตราด",
         "province": "ตราด"
       }
@@ -1492,7 +1492,7 @@
       "properties": {
         "date": "08/24/2026",
         "metric": "min_temp",
-        "value": 18.8,
+        "value": 18.2,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 66.5,
+        "value": 93.2,
         "station": "แม่สอด",
         "province": "ตาก"
       }

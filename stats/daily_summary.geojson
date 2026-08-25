@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.51667,
-          18.28333
+          100.98333,
+          13.36667
         ]
       },
       "properties": {
         "date": "07/26/2026",
         "metric": "max_temp",
-        "value": 36.1,
-        "station": "ลำปาง",
-        "province": "ลำปาง"
+        "value": 33.8,
+        "station": "ชลบุรี",
+        "province": "ชลบุรี"
       }
     },
     {

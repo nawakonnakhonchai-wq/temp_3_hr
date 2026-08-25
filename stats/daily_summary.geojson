@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "07/26/2026",
-        "metric": "min_temp",
-        "value": 19.3,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.98333,
-          13.36667
-        ]
-      },
-      "properties": {
-        "date": "07/26/2026",
-        "metric": "max_temp",
-        "value": 33.8,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.88139,
-          19.96139
-        ]
-      },
-      "properties": {
-        "date": "07/26/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 81.5,
-        "station": "เชียงราย",
-        "province": "เชียงราย"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "07/27/2026",
         "metric": "min_temp",
         "value": 18.2,
@@ -1529,6 +1478,57 @@
         "value": 76.4,
         "station": "ระนอง",
         "province": "ระนอง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "08/26/2026",
+        "metric": "min_temp",
+        "value": 18.5,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "08/26/2026",
+        "metric": "max_temp",
+        "value": 30.3,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4,
+          7.88333
+        ]
+      },
+      "properties": {
+        "date": "08/26/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 46.6,
+        "station": "ภูเก็ต",
+        "province": "ภูเก็ต"
       }
     }
   ]

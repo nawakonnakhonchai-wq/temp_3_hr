@@ -1502,15 +1502,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.56805,
+          13.70694
         ]
       },
       "properties": {
         "date": "08/25/2026",
         "metric": "max_temp",
-        "value": 33.4,
-        "station": "กรุงเทพฯ บางนา สกษ.",
+        "value": 35.0,
+        "station": "กรุงเทพฯ ท่าเรือคลองเตย",
         "province": "กรุงเทพมหานคร"
       }
     },

@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          100.60769,
+          7.18211
         ]
       },
       "properties": {
         "date": "08/26/2026",
         "metric": "max_temp",
-        "value": 33.1,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 35.8,
+        "station": "สงขลา",
+        "province": "สงขลา"
       }
     },
     {

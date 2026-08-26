@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.4,
-          7.88333
+          98.55083,
+          16.65917
         ]
       },
       "properties": {
         "date": "08/26/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.6,
-        "station": "ภูเก็ต",
-        "province": "ภูเก็ต"
+        "value": 52.7,
+        "station": "แม่สอด",
+        "province": "ตาก"
       }
     }
   ]

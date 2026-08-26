@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.53028,
-          15.34944
+          102.03333,
+          15.8
         ]
       },
       "properties": {
         "date": "07/27/2026",
         "metric": "max_temp",
-        "value": 34.8,
-        "station": "ตากฟ้า สกษ.",
-        "province": "นครสวรรค์"
+        "value": 31.8,
+        "station": "ชัยภูมิ",
+        "province": "ชัยภูมิ"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/26/2026",
         "metric": "max_rainfall_24hr",
-        "value": 52.7,
+        "value": 61.2,
         "station": "แม่สอด",
         "province": "ตาก"
       }

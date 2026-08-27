@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          100.98333,
+          12.68333
         ]
       },
       "properties": {
         "date": "08/27/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 32.5,
+        "station": "สัตหีบ",
+        "province": "ชลบุรี"
       }
     },
     {

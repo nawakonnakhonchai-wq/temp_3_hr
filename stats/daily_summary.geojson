@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.55083,
-          16.65917
+          98.63639,
+          14.74222
         ]
       },
       "properties": {
         "date": "08/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 61.7,
-        "station": "แม่สอด",
-        "province": "ตาก"
+        "value": 65.0,
+        "station": "ทองผาภูมิ",
+        "province": "กาญจนบุรี"
       }
     }
   ]

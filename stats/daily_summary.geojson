@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.7675,
-          13.68639
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "07/29/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "สนามบินสุวรรณภูมิ",
-        "province": "สมุทรปราการ"
+        "value": 35.5,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {

@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          13.36667
+          99.86472,
+          14.30361
         ]
       },
       "properties": {
         "date": "08/29/2026",
         "metric": "max_temp",
-        "value": 29.8,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
+        "value": 34.5,
+        "station": "อู่ทอง สกษ.",
+        "province": "สุพรรณบุรี"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "08/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 126.8,
+        "value": 194.0,
         "station": "นครนายก",
         "province": "นครนายก"
       }

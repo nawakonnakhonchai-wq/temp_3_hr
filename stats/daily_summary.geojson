@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9625,
-          12.58611
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "08/01/2026",
         "metric": "max_temp",
-        "value": 35.2,
-        "station": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์"
+        "value": 31.3,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/01/2026",
         "metric": "max_rainfall_24hr",
-        "value": 79.0,
+        "value": 78.9,
         "station": "ชัยภูมิ",
         "province": "ชัยภูมิ"
       }

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "08/02/2026",
         "metric": "max_temp",
-        "value": 35.1,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 30.2,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.77367,
-          17.27642
+          99.88139,
+          19.96139
         ]
       },
       "properties": {
         "date": "08/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 92.4,
-        "station": "นครพนม สกษ.",
-        "province": "นครพนม"
+        "value": 84.7,
+        "station": "เชียงราย",
+        "province": "เชียงราย"
       }
     },
     {

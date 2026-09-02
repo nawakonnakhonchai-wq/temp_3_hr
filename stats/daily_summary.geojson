@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.53583,
-          14.0225
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "08/03/2026",
         "metric": "max_temp",
-        "value": 37.3,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
+        "value": 32.6,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.88139,
-          19.96139
+          104.72889,
+          16.54139
         ]
       },
       "properties": {
         "date": "08/03/2026",
         "metric": "max_rainfall_24hr",
-        "value": 90.3,
-        "station": "เชียงราย",
-        "province": "เชียงราย"
+        "value": 85.6,
+        "station": "มุกดาหาร",
+        "province": "มุกดาหาร"
       }
     },
     {
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "09/02/2026",
         "metric": "max_temp",
-        "value": 34.5,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 35.0,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {

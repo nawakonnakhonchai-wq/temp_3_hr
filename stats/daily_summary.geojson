@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "09/03/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.0,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {

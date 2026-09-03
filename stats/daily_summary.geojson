@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.72889,
-          16.54139
+          103.51672,
+          18.41361
         ]
       },
       "properties": {
         "date": "08/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 113.5,
-        "station": "มุกดาหาร",
-        "province": "มุกดาหาร"
+        "value": 108.4,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     },
     {
@@ -1509,7 +1509,7 @@
       "properties": {
         "date": "09/03/2026",
         "metric": "max_temp",
-        "value": 37.1,
+        "value": 37.2,
         "station": "กาญจนบุรี",
         "province": "กาญจนบุรี"
       }
@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.39056,
-          6.79806
+          100.0,
+          8.35931
         ]
       },
       "properties": {
         "date": "09/03/2026",
         "metric": "max_rainfall_24hr",
-        "value": 30.8,
-        "station": "สะเดา",
-        "province": "สงขลา"
+        "value": 48.2,
+        "station": "นครศรีธรรมราช สกษ.",
+        "province": "นครศรีธรรมราช"
       }
     }
   ]

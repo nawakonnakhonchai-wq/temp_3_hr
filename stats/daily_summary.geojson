@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.88333,
-          11.76667
+          100.88353,
+          19.41194
         ]
       },
       "properties": {
         "date": "09/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 75.0,
-        "station": "ตราด",
-        "province": "ตราด"
+        "value": 96.4,
+        "station": "ทุ่งช้าง",
+        "province": "น่าน"
       }
     }
   ]

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.13236,
-          15.67183
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "08/05/2026",
         "metric": "max_temp",
-        "value": 36.3,
-        "station": "นครสวรรค์",
-        "province": "นครสวรรค์"
+        "value": 30.0,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {

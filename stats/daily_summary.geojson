@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.08333,
-          6.65
+          102.88333,
+          11.76667
         ]
       },
       "properties": {
         "date": "09/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 54.2,
-        "station": "สตูล",
-        "province": "สตูล"
+        "value": 75.0,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     }
   ]

@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "08/05/2026",
-        "metric": "min_temp",
-        "value": 18.4,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.14333,
-          16.87833
-        ]
-      },
-      "properties": {
-        "date": "08/05/2026",
-        "metric": "max_temp",
-        "value": 30.0,
-        "station": "ตาก",
-        "province": "ตาก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.51672,
-          18.41361
-        ]
-      },
-      "properties": {
-        "date": "08/05/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 128.4,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "08/06/2026",
         "metric": "min_temp",
         "value": 18.1,
@@ -91,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "08/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 109.6,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 103.0,
+        "station": "นครพนม",
+        "province": "นครพนม"
       }
     },
     {
@@ -1529,6 +1478,57 @@
         "value": 96.4,
         "station": "ทุ่งช้าง",
         "province": "น่าน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/05/2026",
+        "metric": "min_temp",
+        "value": 18.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "09/05/2026",
+        "metric": "max_temp",
+        "value": 31.0,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.88333,
+          11.76667
+        ]
+      },
+      "properties": {
+        "date": "09/05/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 76.2,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     }
   ]

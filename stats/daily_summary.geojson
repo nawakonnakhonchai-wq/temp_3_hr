@@ -30,7 +30,7 @@
       "properties": {
         "date": "08/07/2026",
         "metric": "max_temp",
-        "value": 32.0,
+        "value": 30.5,
         "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          99.28333,
+          18.31667
         ]
       },
       "properties": {
         "date": "08/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 125.2,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 76.5,
+        "station": "ลำปาง สกษ.",
+        "province": "ลำปาง"
       }
     },
     {

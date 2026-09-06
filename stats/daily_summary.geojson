@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.24475,
-          17.63661
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "08/07/2026",
         "metric": "max_temp",
-        "value": 35.4,
-        "station": "เถิน",
-        "province": "ลำปาง"
+        "value": 32.0,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 142.6,
+        "value": 125.2,
         "station": "บึงกาฬ",
         "province": "บึงกาฬ"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "09/06/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 37.0,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "09/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 72.4,
+        "value": 84.6,
         "station": "ท่าตูม",
         "province": "สุรินทร์"
       }

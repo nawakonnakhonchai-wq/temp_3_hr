@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 144.4,
+        "value": 142.6,
         "station": "บึงกาฬ",
         "province": "บึงกาฬ"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "09/06/2026",
         "metric": "max_temp",
-        "value": 31.8,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 34.9,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {

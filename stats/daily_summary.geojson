@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.24475,
-          17.63661
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "08/08/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "เถิน",
-        "province": "ลำปาง"
+        "value": 31.3,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.28333,
-          18.31667
+          99.03389,
+          18.56722
         ]
       },
       "properties": {
         "date": "08/08/2026",
         "metric": "max_rainfall_24hr",
-        "value": 90.6,
-        "station": "ลำปาง สกษ.",
-        "province": "ลำปาง"
+        "value": 71.8,
+        "station": "ลำพูน",
+        "province": "ลำพูน"
       }
     },
     {

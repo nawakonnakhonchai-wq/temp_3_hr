@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.97578,
-          19.29897
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "09/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 73.4,
-        "station": "แม่ฮ่องสอน",
-        "province": "แม่ฮ่องสอน"
+        "value": 106.3,
+        "station": "นครพนม",
+        "province": "นครพนม"
       }
     }
   ]

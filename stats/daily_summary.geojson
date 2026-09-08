@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 323.8,
+        "value": 279.3,
         "station": "นครพนม",
         "province": "นครพนม"
       }
@@ -1478,6 +1478,57 @@
         "value": 109.7,
         "station": "ยโสธร",
         "province": "ตาดทอง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/09/2026",
+        "metric": "min_temp",
+        "value": 18.5,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "09/09/2026",
+        "metric": "max_temp",
+        "value": 31.1,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51672,
+          18.41361
+        ]
+      },
+      "properties": {
+        "date": "09/09/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 117.2,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     }
   ]

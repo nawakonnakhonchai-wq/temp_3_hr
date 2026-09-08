@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/08/2026",
         "metric": "max_temp",
-        "value": 30.5,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.2,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "09/08/2026",
         "metric": "max_rainfall_24hr",
-        "value": 106.0,
+        "value": 109.5,
         "station": "ยโสธร",
         "province": "ตาดทอง"
       }

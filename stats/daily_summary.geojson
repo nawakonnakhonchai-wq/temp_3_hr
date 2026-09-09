@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          99.52697,
+          16.48681
         ]
       },
       "properties": {
         "date": "08/10/2026",
         "metric": "max_temp",
-        "value": 35.1,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 31.8,
+        "station": "กำแพงเพชร",
+        "province": "กำแพงเพชร"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7825,
-          17.41083
+          102.87808,
+          11.78033
         ]
       },
       "properties": {
         "date": "08/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 116.6,
-        "station": "นครพนม",
-        "province": "นครพนม"
+        "value": 43.2,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     },
     {

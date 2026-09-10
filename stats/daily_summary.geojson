@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          100.03361,
+          9.45097
         ]
       },
       "properties": {
         "date": "08/11/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 31.5,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "09/10/2026",
         "metric": "max_temp",
-        "value": 32.9,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 34.2,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {

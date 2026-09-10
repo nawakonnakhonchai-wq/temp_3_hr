@@ -1519,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.74728,
-          17.86511
+          104.05,
+          15.0
         ]
       },
       "properties": {
         "date": "09/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 87.2,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 122.1,
+        "station": "ศรีสะเกษ",
+        "province": "ศรีสะเกษ"
       }
     }
   ]

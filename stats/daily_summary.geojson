@@ -1479,6 +1479,57 @@
         "station": "ศรีสะเกษ",
         "province": "ศรีสะเกษ"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/11/2026",
+        "metric": "min_temp",
+        "value": 17.9,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "date": "09/11/2026",
+        "metric": "max_temp",
+        "value": 29.7,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05,
+          15.0
+        ]
+      },
+      "properties": {
+        "date": "09/11/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 141.3,
+        "station": "ศรีสะเกษ",
+        "province": "ศรีสะเกษ"
+      }
     }
   ]
 }

@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/11/2026",
         "metric": "min_temp",
-        "value": 18.1,
+        "value": 18.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60611,
-          13.66639
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "09/10/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
+        "value": 32.9,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "properties": {
         "date": "09/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 122.1,
+        "value": 148.3,
         "station": "ศรีสะเกษ",
         "province": "ศรีสะเกษ"
       }

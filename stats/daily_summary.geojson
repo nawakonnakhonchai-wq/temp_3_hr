@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/11/2026",
         "metric": "max_temp",
-        "value": 32.4,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 36.8,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {

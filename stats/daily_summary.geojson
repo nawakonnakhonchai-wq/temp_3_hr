@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.81667,
-          16.33333
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "08/13/2026",
         "metric": "max_temp",
-        "value": 32.4,
-        "station": "ท่าพระ สกษ.",
-        "province": "ขอนแก่น"
+        "value": 30.6,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/13/2026",
         "metric": "max_rainfall_24hr",
-        "value": 41.6,
+        "value": 38.3,
         "station": "ทองผาภูมิ",
         "province": "กาญจนบุรี"
       }

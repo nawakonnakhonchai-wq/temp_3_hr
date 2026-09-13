@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          8.35931
+          104.72889,
+          16.54139
         ]
       },
       "properties": {
         "date": "09/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 55.2,
-        "station": "นครศรีธรรมราช สกษ.",
-        "province": "นครศรีธรรมราช"
+        "value": 58.4,
+        "station": "มุกดาหาร",
+        "province": "มุกดาหาร"
       }
     }
   ]

@@ -1530,6 +1530,57 @@
         "station": "นครศรีธรรมราช สกษ.",
         "province": "นครศรีธรรมราช"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "09/14/2026",
+        "metric": "min_temp",
+        "value": 19.1,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03222,
+          13.40778
+        ]
+      },
+      "properties": {
+        "date": "09/14/2026",
+        "metric": "max_temp",
+        "value": 29.0,
+        "station": "สมุทรสงคราม",
+        "province": "สมุทรสงคราม"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0,
+          8.35931
+        ]
+      },
+      "properties": {
+        "date": "09/14/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 55.2,
+        "station": "นครศรีธรรมราช สกษ.",
+        "province": "นครศรีธรรมราช"
+      }
     }
   ]
 }

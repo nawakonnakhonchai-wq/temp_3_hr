@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.74728,
-          17.86511
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "08/15/2026",
         "metric": "max_temp",
-        "value": 34.7,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 31.5,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/15/2026",
         "metric": "max_rainfall_24hr",
-        "value": 78.9,
+        "value": 78.2,
         "station": "นครพนม",
         "province": "นครพนม"
       }

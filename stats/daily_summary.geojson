@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          98.9725,
+          18.77111
         ]
       },
       "properties": {
         "date": "09/14/2026",
         "metric": "max_temp",
-        "value": 29.1,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 33.2,
+        "station": "เชียงใหม่",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 65.2,
+        "value": 69.4,
         "station": "มุกดาหาร",
         "province": "มุกดาหาร"
       }

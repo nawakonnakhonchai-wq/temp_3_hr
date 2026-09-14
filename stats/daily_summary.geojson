@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "08/15/2026",
-        "metric": "min_temp",
-        "value": 19.2,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03889,
-          15.37417
-        ]
-      },
-      "properties": {
-        "date": "08/15/2026",
-        "metric": "max_temp",
-        "value": 31.5,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.7825,
-          17.41083
-        ]
-      },
-      "properties": {
-        "date": "08/15/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 78.2,
-        "station": "นครพนม",
-        "province": "นครพนม"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "08/16/2026",
         "metric": "min_temp",
         "value": 17.5,
@@ -91,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7825,
-          17.41083
+          103.51672,
+          18.41361
         ]
       },
       "properties": {
         "date": "08/16/2026",
         "metric": "max_rainfall_24hr",
-        "value": 74.5,
-        "station": "นครพนม",
-        "province": "นครพนม"
+        "value": 55.2,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     },
     {
@@ -1580,6 +1529,57 @@
         "value": 70.2,
         "station": "มุกดาหาร",
         "province": "มุกดาหาร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/15/2026",
+        "metric": "min_temp",
+        "value": 19.6,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "date": "09/15/2026",
+        "metric": "max_temp",
+        "value": 29.1,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.74728,
+          17.86511
+        ]
+      },
+      "properties": {
+        "date": "09/15/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 56.4,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     }
   ]

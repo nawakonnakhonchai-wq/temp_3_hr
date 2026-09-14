@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "08/15/2026",
         "metric": "max_temp",
-        "value": 35.1,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 34.7,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.9725,
-          18.77111
+          97.97578,
+          19.29897
         ]
       },
       "properties": {
         "date": "09/14/2026",
         "metric": "max_temp",
-        "value": 33.2,
-        "station": "เชียงใหม่",
-        "province": "เชียงใหม่"
+        "value": 36.0,
+        "station": "แม่ฮ่องสอน",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 69.4,
+        "value": 70.2,
         "station": "มุกดาหาร",
         "province": "มุกดาหาร"
       }

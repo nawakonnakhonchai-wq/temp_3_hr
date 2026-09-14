@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/15/2026",
         "metric": "min_temp",
-        "value": 17.8,
+        "value": 19.2,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03222,
-          13.40778
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/14/2026",
         "metric": "max_temp",
-        "value": 29.0,
-        "station": "สมุทรสงคราม",
-        "province": "สมุทรสงคราม"
+        "value": 29.1,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 58.4,
+        "value": 65.2,
         "station": "มุกดาหาร",
         "province": "มุกดาหาร"
       }

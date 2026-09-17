@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03889,
-          15.37417
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "08/18/2026",
         "metric": "max_temp",
-        "value": 36.2,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
+        "value": 32.2,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          97.93333,
+          18.16667
         ]
       },
       "properties": {
         "date": "09/17/2026",
         "metric": "max_temp",
-        "value": 34.4,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 35.5,
+        "station": "แม่สะเรียง",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "09/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 83.8,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 88.0,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     }
   ]

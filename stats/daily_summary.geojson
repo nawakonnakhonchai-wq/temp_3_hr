@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.725,
-          14.53472
+          101.18736,
+          15.26667
         ]
       },
       "properties": {
         "date": "09/18/2026",
         "metric": "max_temp",
-        "value": 34.3,
-        "station": "พระนครศรีอยุธยา",
-        "province": "พระนครศรีอยุธยา"
+        "value": 35.4,
+        "station": "บัวชุม",
+        "province": "ลพบุรี"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/18/2026",
         "metric": "max_rainfall_24hr",
-        "value": 225.0,
+        "value": 226.8,
         "station": "ระนอง",
         "province": "ระนอง"
       }

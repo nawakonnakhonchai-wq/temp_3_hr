@@ -23,15 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.63333,
-          9.1
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "08/19/2026",
         "metric": "max_temp",
-        "value": 34.3,
-        "station": "สุราษฎร์ธานี สกษ.",
+        "value": 32.3,
+        "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }
     },

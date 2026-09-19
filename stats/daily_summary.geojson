@@ -1530,6 +1530,57 @@
         "station": "ระนอง",
         "province": "ระนอง"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "09/20/2026",
+        "metric": "min_temp",
+        "value": 20.8,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.05,
+          9.46667
+        ]
+      },
+      "properties": {
+        "date": "09/20/2026",
+        "metric": "max_temp",
+        "value": 29.4,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.52697,
+          16.48681
+        ]
+      },
+      "properties": {
+        "date": "09/20/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 139.7,
+        "station": "กำแพงเพชร",
+        "province": "กำแพงเพชร"
+      }
     }
   ]
 }

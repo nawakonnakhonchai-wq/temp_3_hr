@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.76167,
-          13.51667
+          100.725,
+          14.53472
         ]
       },
       "properties": {
         "date": "09/19/2026",
         "metric": "max_temp",
-        "value": 28.5,
-        "station": "สมุทรปราการ สกษ.",
-        "province": "สมุทรปราการ"
+        "value": 32.9,
+        "station": "พระนครศรีอยุธยา",
+        "province": "พระนครศรีอยุธยา"
       }
     },
     {

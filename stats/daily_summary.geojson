@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          100.5,
+          7.0
         ]
       },
       "properties": {
         "date": "08/20/2026",
         "metric": "max_temp",
-        "value": 34.7,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 31.2,
+        "station": "คอหงษ์ สกษ.",
+        "province": "สงขลา"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/20/2026",
         "metric": "max_rainfall_24hr",
-        "value": 174.2,
+        "value": 138.2,
         "station": "นครพนม",
         "province": "นครพนม"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.725,
-          14.53472
+          100.13236,
+          15.67183
         ]
       },
       "properties": {
         "date": "09/19/2026",
         "metric": "max_temp",
-        "value": 32.9,
-        "station": "พระนครศรีอยุธยา",
-        "province": "พระนครศรีอยุธยา"
+        "value": 34.9,
+        "station": "นครสวรรค์",
+        "province": "นครสวรรค์"
       }
     },
     {

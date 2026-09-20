@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/21/2026",
         "metric": "min_temp",
-        "value": 18.4,
+        "value": 19.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 188.8,
+        "value": 167.8,
         "station": "ศรีสำโรง สกษ.",
         "province": "สุโขทัย"
       }
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "09/20/2026",
         "metric": "min_temp",
-        "value": 18.5,
+        "value": 18.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "09/20/2026",
         "metric": "max_temp",
-        "value": 29.4,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 32.5,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {

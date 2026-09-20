@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.55083,
-          16.65917
+          102.58333,
+          13.7
         ]
       },
       "properties": {
         "date": "08/22/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.2,
-        "station": "แม่สอด",
-        "province": "ตาก"
+        "value": 50.2,
+        "station": "อรัญประเทศ",
+        "province": "สระแก้ว"
       }
     },
     {
@@ -1529,6 +1529,57 @@
         "value": 139.7,
         "station": "กำแพงเพชร",
         "province": "กำแพงเพชร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/21/2026",
+        "metric": "min_temp",
+        "value": 18.8,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "09/21/2026",
+        "metric": "max_temp",
+        "value": 27.7,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.36711,
+          16.33878
+        ]
+      },
+      "properties": {
+        "date": "09/21/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 110.8,
+        "station": "พิจิตร สกษ.",
+        "province": "พิจิตร"
       }
     }
   ]

@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "09/22/2026",
         "metric": "min_temp",
-        "value": 18.3,
+        "value": 17.9,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/22/2026",
         "metric": "max_rainfall_24hr",
-        "value": 98.4,
+        "value": 136.8,
         "station": "ปราจีนบุรี",
         "province": "ปราจีนบุรี"
       }

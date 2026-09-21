@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
-        ]
-      },
-      "properties": {
-        "date": "08/22/2026",
-        "metric": "min_temp",
-        "value": 20.0,
-        "station": "นครนายก",
-        "province": "นครนายก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.25825,
-          8.57022
-        ]
-      },
-      "properties": {
-        "date": "08/22/2026",
-        "metric": "max_temp",
-        "value": 31.6,
-        "station": "พระแสง สอท.",
-        "province": "สุราษฎร์ธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.58333,
-          13.7
-        ]
-      },
-      "properties": {
-        "date": "08/22/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 50.2,
-        "station": "อรัญประเทศ",
-        "province": "สระแก้ว"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           99.04833,
           19.93139
         ]
@@ -1580,6 +1529,57 @@
         "value": 136.8,
         "station": "พิษณุโลก",
         "province": "พิษณุโลก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/22/2026",
+        "metric": "min_temp",
+        "value": 18.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05,
+          7.53333
+        ]
+      },
+      "properties": {
+        "date": "09/22/2026",
+        "metric": "max_temp",
+        "value": 29.0,
+        "station": "เกาะลันตา",
+        "province": "กระบี่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3693,
+          14.05842
+        ]
+      },
+      "properties": {
+        "date": "09/22/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 98.4,
+        "station": "ปราจีนบุรี",
+        "province": "ปราจีนบุรี"
       }
     }
   ]

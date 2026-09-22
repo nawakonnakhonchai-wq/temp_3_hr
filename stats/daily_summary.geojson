@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "08/23/2026",
         "metric": "max_temp",
-        "value": 36.6,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 31.8,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 79.0,
+        "value": 78.1,
         "station": "แม่สอด",
         "province": "ตาก"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2793,
-          16.79481
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "09/22/2026",
         "metric": "max_temp",
-        "value": 32.7,
-        "station": "พิษณุโลก",
-        "province": "พิษณุโลก"
+        "value": 35.9,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

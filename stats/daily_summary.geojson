@@ -1530,6 +1530,57 @@
         "station": "ทองผาภูมิ",
         "province": "กาญจนบุรี"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.78278,
+          19.87083
+        ]
+      },
+      "properties": {
+        "date": "09/24/2026",
+        "metric": "min_temp",
+        "value": 22.2,
+        "station": "เชียงราย สกษ.",
+        "province": "เชียงราย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.05,
+          9.46667
+        ]
+      },
+      "properties": {
+        "date": "09/24/2026",
+        "metric": "max_temp",
+        "value": 28.5,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.34361,
+          12.63222
+        ]
+      },
+      "properties": {
+        "date": "09/24/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 109.1,
+        "station": "ระยอง",
+        "province": "ระยอง"
+      }
     }
   ]
 }

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "08/24/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 32.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.55083,
-          16.65917
+          98.61667,
+          9.98333
         ]
       },
       "properties": {
         "date": "08/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 94.7,
-        "station": "แม่สอด",
-        "province": "ตาก"
+        "value": 76.4,
+        "station": "ระนอง",
+        "province": "ระนอง"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          98.9725,
+          18.77111
         ]
       },
       "properties": {
         "date": "09/23/2026",
         "metric": "max_temp",
-        "value": 33.9,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 35.6,
+        "station": "เชียงใหม่",
+        "province": "เชียงใหม่"
       }
     },
     {

@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          98.4,
+          7.88333
         ]
       },
       "properties": {
         "date": "08/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 53.8,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 45.8,
+        "station": "ภูเก็ต",
+        "province": "ภูเก็ต"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.135,
-          12.735
+          104.7825,
+          17.41083
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "max_temp",
-        "value": 30.3,
-        "station": "ห้วยโป่ง สกษ.",
-        "province": "ระยอง"
+        "value": 32.0,
+        "station": "นครพนม",
+        "province": "นครพนม"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 171.4,
+        "value": 171.8,
         "station": "พัทยา",
         "province": "ชลบุรี"
       }

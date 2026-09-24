@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56805,
-          13.70694
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "08/25/2026",
         "metric": "max_temp",
-        "value": 35.0,
-        "station": "กรุงเทพฯ ท่าเรือคลองเตย",
-        "province": "กรุงเทพมหานคร"
+        "value": 31.3,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 45.8,
+        "value": 45.4,
         "station": "ภูเก็ต",
         "province": "ภูเก็ต"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7825,
-          17.41083
+          97.93333,
+          18.16667
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "max_temp",
-        "value": 32.0,
-        "station": "นครพนม",
-        "province": "นครพนม"
+        "value": 34.9,
+        "station": "แม่สะเรียง",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {

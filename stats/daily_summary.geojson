@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/25/2026",
         "metric": "min_temp",
-        "value": 18.6,
+        "value": 18.7,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.4,
+        "value": 53.8,
         "station": "ระนอง",
         "province": "ระนอง"
       }
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.78278,
-          19.87083
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "min_temp",
-        "value": 22.2,
-        "station": "เชียงราย สกษ.",
-        "province": "เชียงราย"
+        "value": 18.8,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          101.135,
+          12.735
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "max_temp",
-        "value": 28.5,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 30.3,
+        "station": "ห้วยโป่ง สกษ.",
+        "province": "ระยอง"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.34361,
-          12.63222
+          100.86944,
+          12.92
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 109.1,
-        "station": "ระยอง",
-        "province": "ระยอง"
+        "value": 171.4,
+        "station": "พัทยา",
+        "province": "ชลบุรี"
       }
     }
   ]

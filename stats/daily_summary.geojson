@@ -1530,6 +1530,57 @@
         "station": "พัทยา",
         "province": "ชลบุรี"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.88353,
+          19.41194
+        ]
+      },
+      "properties": {
+        "date": "09/25/2026",
+        "metric": "min_temp",
+        "value": 23.4,
+        "station": "ทุ่งช้าง",
+        "province": "น่าน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "09/25/2026",
+        "metric": "max_temp",
+        "value": 28.5,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.63639,
+          14.74222
+        ]
+      },
+      "properties": {
+        "date": "09/25/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 82.8,
+        "station": "ทองผาภูมิ",
+        "province": "กาญจนบุรี"
+      }
     }
   ]
 }

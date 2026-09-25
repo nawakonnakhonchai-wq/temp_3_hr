@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/26/2026",
         "metric": "min_temp",
-        "value": 20.4,
+        "value": 20.7,
         "station": "นครนายก",
         "province": "นครนายก"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "max_temp",
-        "value": 28.8,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 33.6,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "09/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 124.4,
+        "value": 127.4,
         "station": "พระนครศรีอยุธยา",
         "province": "พระนครศรีอยุธยา"
       }

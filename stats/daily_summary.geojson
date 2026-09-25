@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
+          101.38333,
+          14.21667
         ]
       },
       "properties": {
         "date": "08/26/2026",
         "metric": "min_temp",
-        "value": 18.3,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
+        "value": 20.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     },
     {
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.88353,
-          19.41194
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "min_temp",
-        "value": 23.4,
-        "station": "ทุ่งช้าง",
-        "province": "น่าน"
+        "value": 19.1,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1560,7 +1560,7 @@
       "properties": {
         "date": "09/25/2026",
         "metric": "max_temp",
-        "value": 28.5,
+        "value": 28.8,
         "station": "ตาก",
         "province": "ตาก"
       }
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.63639,
-          14.74222
+          100.725,
+          14.53472
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 82.8,
-        "station": "ทองผาภูมิ",
-        "province": "กาญจนบุรี"
+        "value": 124.4,
+        "station": "พระนครศรีอยุธยา",
+        "province": "พระนครศรีอยุธยา"
       }
     }
   ]

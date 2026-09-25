@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.60769,
-          7.18211
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "08/26/2026",
         "metric": "max_temp",
-        "value": 35.8,
-        "station": "สงขลา",
-        "province": "สงขลา"
+        "value": 31.6,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          99.88139,
+          19.96139
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "max_temp",
-        "value": 33.6,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 34.0,
+        "station": "เชียงราย",
+        "province": "เชียงราย"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.725,
-          14.53472
+          101.45833,
+          13.51556
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 127.4,
-        "station": "พระนครศรีอยุธยา",
-        "province": "พระนครศรีอยุธยา"
+        "value": 172.7,
+        "station": "ฉะเชิงเทรา",
+        "province": "ฉะเชิงเทรา"
       }
     }
   ]

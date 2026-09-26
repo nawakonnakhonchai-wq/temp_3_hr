@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/27/2026",
         "metric": "min_temp",
-        "value": 19.0,
+        "value": 20.2,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          12.68333
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "08/27/2026",
         "metric": "max_temp",
-        "value": 32.5,
-        "station": "สัตหีบ",
-        "province": "ชลบุรี"
+        "value": 32.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.63639,
-          14.74222
+          102.88333,
+          11.76667
         ]
       },
       "properties": {
         "date": "08/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 65.0,
-        "station": "ทองผาภูมิ",
-        "province": "กาญจนบุรี"
+        "value": 56.0,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     },
     {
@@ -1529,6 +1529,57 @@
         "value": 209.2,
         "station": "ฉะเชิงเทรา",
         "province": "ฉะเชิงเทรา"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "09/26/2026",
+        "metric": "min_temp",
+        "value": 19.3,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.05,
+          9.46667
+        ]
+      },
+      "properties": {
+        "date": "09/26/2026",
+        "metric": "max_temp",
+        "value": 32.7,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.76167,
+          13.51667
+        ]
+      },
+      "properties": {
+        "date": "09/26/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 193.5,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
       }
     }
   ]

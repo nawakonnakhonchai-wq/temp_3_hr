@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.77778,
+          18.77972
         ]
       },
       "properties": {
         "date": "09/26/2026",
         "metric": "max_temp",
-        "value": 32.7,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 34.7,
+        "station": "น่าน",
+        "province": "น่าน"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.76167,
-          13.51667
+          101.3693,
+          14.05842
         ]
       },
       "properties": {
         "date": "09/26/2026",
         "metric": "max_rainfall_24hr",
-        "value": 193.5,
-        "station": "สมุทรปราการ สกษ.",
-        "province": "สมุทรปราการ"
+        "value": 214.8,
+        "station": "ปราจีนบุรี",
+        "province": "ปราจีนบุรี"
       }
     }
   ]

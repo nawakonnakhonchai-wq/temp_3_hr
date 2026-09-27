@@ -1502,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          97.93333,
+          18.16667
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "max_temp",
-        "value": 32.5,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 34.2,
+        "station": "แม่สะเรียง",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {

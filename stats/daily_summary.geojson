@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "08/28/2026",
-        "metric": "min_temp",
-        "value": 18.7,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.31444,
-          8.145
-        ]
-      },
-      "properties": {
-        "date": "08/28/2026",
-        "metric": "max_temp",
-        "value": 30.2,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.61667,
-          9.98333
-        ]
-      },
-      "properties": {
-        "date": "08/28/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 70.4,
-        "station": "ระนอง",
-        "province": "ระนอง"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "08/29/2026",
         "metric": "min_temp",
         "value": 18.4,
@@ -1543,7 +1492,7 @@
       "properties": {
         "date": "09/27/2026",
         "metric": "min_temp",
-        "value": 18.1,
+        "value": 17.9,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "max_temp",
-        "value": 28.3,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 32.5,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {

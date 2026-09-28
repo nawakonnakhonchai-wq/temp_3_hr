@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.86472,
-          14.30361
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "08/29/2026",
         "metric": "max_temp",
-        "value": 34.5,
-        "station": "อู่ทอง สกษ.",
-        "province": "สุพรรณบุรี"
+        "value": 31.2,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "08/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 194.0,
+        "value": 142.0,
         "station": "นครนายก",
         "province": "นครนายก"
       }

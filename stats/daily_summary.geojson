@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.61667,
-          14.1
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "08/30/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
+        "value": 30.7,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.93333,
-          16.75
+          98.25222,
+          8.68417
         ]
       },
       "properties": {
         "date": "09/29/2026",
         "metric": "max_rainfall_24hr",
-        "value": 51.1,
-        "station": "ดอยมูเซอร์ สกษ.",
-        "province": "ตาก"
+        "value": 60.2,
+        "station": "ตะกั่วป่า",
+        "province": "พังงา"
       }
     }
   ]

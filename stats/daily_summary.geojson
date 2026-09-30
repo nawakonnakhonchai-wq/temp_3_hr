@@ -13,7 +13,7 @@
       "properties": {
         "date": "08/31/2026",
         "metric": "min_temp",
-        "value": 17.5,
+        "value": 19.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.5,
+          7.0
         ]
       },
       "properties": {
         "date": "08/31/2026",
         "metric": "max_temp",
-        "value": 33.3,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 31.6,
+        "station": "คอหงษ์ สกษ.",
+        "province": "สงขลา"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
+          98.63639,
+          14.74222
         ]
       },
       "properties": {
         "date": "08/31/2026",
         "metric": "max_rainfall_24hr",
-        "value": 84.6,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 80.9,
+        "station": "ทองผาภูมิ",
+        "province": "กาญจนบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "09/30/2026",
         "metric": "max_temp",
-        "value": 28.7,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 35.3,
+        "station": "กรุงเทพฯ บางนา สกษ.",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {

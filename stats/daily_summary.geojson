@@ -1530,6 +1530,57 @@
         "station": "ตะกั่วป่า",
         "province": "พังงา"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "10/01/2026",
+        "metric": "min_temp",
+        "value": 16.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.76167,
+          13.51667
+        ]
+      },
+      "properties": {
+        "date": "10/01/2026",
+        "metric": "max_temp",
+        "value": 28.6,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.08333,
+          6.65
+        ]
+      },
+      "properties": {
+        "date": "10/01/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 55.0,
+        "station": "สตูล",
+        "province": "สตูล"
+      }
     }
   ]
 }

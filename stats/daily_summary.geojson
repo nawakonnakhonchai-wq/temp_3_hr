@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.36711,
-          16.33878
+          104.061,
+          17.12503
         ]
       },
       "properties": {
         "date": "10/01/2026",
         "metric": "max_temp",
-        "value": 28.7,
-        "station": "พิจิตร สกษ.",
-        "province": "พิจิตร"
+        "value": 35.0,
+        "station": "สกลนคร สกษ.",
+        "province": "สกลนคร"
       }
     },
     {

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "09/01/2026",
         "metric": "max_temp",
-        "value": 37.0,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 31.8,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/01/2026",
         "metric": "max_rainfall_24hr",
-        "value": 76.6,
+        "value": 34.8,
         "station": "ระนอง",
         "province": "ระนอง"
       }

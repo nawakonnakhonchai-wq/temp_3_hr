@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.7675,
-          13.68639
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "10/02/2026",
         "metric": "max_temp",
-        "value": 30.1,
-        "station": "สนามบินสุวรรณภูมิ",
-        "province": "สมุทรปราการ"
+        "value": 38.2,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          99.63333,
+          9.1
         ]
       },
       "properties": {
         "date": "10/02/2026",
         "metric": "max_rainfall_24hr",
-        "value": 18.8,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 53.2,
+        "station": "สุราษฎร์ธานี สกษ.",
+        "province": "สุราษฎร์ธานี"
       }
     }
   ]

@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "10/02/2026",
         "metric": "min_temp",
-        "value": 18.3,
+        "value": 18.2,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,15 +1553,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.76167,
-          13.51667
+          100.7675,
+          13.68639
         ]
       },
       "properties": {
         "date": "10/02/2026",
         "metric": "max_temp",
-        "value": 29.8,
-        "station": "สมุทรปราการ สกษ.",
+        "value": 30.1,
+        "station": "สนามบินสุวรรณภูมิ",
         "province": "สมุทรปราการ"
       }
     },

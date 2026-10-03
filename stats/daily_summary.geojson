@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.53583,
-          14.0225
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "09/03/2026",
         "metric": "max_temp",
-        "value": 37.2,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
+        "value": 31.5,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "10/03/2026",
         "metric": "max_temp",
-        "value": 34.4,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 36.9,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {

@@ -13,7 +13,7 @@
       "properties": {
         "date": "09/03/2026",
         "metric": "min_temp",
-        "value": 17.3,
+        "value": 19.2,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03889,
-          15.37417
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "10/03/2026",
         "metric": "max_temp",
-        "value": 29.2,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
+        "value": 34.4,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.63333,
-          9.1
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "10/03/2026",
         "metric": "max_rainfall_24hr",
-        "value": 53.2,
-        "station": "สุราษฎร์ธานี สกษ.",
-        "province": "สุราษฎร์ธานี"
+        "value": 70.3,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     }
   ]

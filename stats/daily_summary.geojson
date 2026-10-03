@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          13.36667
+          99.52697,
+          16.48681
         ]
       },
       "properties": {
         "date": "09/04/2026",
         "metric": "max_temp",
-        "value": 38.2,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
+        "value": 35.7,
+        "station": "กำแพงเพชร",
+        "province": "กำแพงเพชร"
       }
     },
     {
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "10/04/2026",
         "metric": "min_temp",
-        "value": 20.4,
+        "value": 19.4,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

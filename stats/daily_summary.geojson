@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "09/04/2026",
-        "metric": "min_temp",
-        "value": 18.6,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61667,
-          14.1
-        ]
-      },
-      "properties": {
-        "date": "09/04/2026",
-        "metric": "max_temp",
-        "value": 31.0,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.88333,
-          11.76667
-        ]
-      },
-      "properties": {
-        "date": "09/04/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 76.2,
-        "station": "ตราด",
-        "province": "ตราด"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "09/05/2026",
         "metric": "min_temp",
         "value": 18.6,
@@ -1580,6 +1529,57 @@
         "value": 70.3,
         "station": "หนองคาย",
         "province": "หนองคาย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "10/05/2026",
+        "metric": "min_temp",
+        "value": 19.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.76167,
+          13.51667
+        ]
+      },
+      "properties": {
+        "date": "10/05/2026",
+        "metric": "max_temp",
+        "value": 29.5,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.24808,
+          15.22575
+        ]
+      },
+      "properties": {
+        "date": "10/05/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 55.2,
+        "station": "บุรีรัมย์",
+        "province": "บุรีรัมย์"
       }
     }
   ]

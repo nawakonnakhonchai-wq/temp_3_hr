@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.52697,
-          16.48681
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "09/04/2026",
         "metric": "max_temp",
-        "value": 35.7,
-        "station": "กำแพงเพชร",
-        "province": "กำแพงเพชร"
+        "value": 31.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.88353,
-          19.41194
+          102.88333,
+          11.76667
         ]
       },
       "properties": {
         "date": "09/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 84.0,
-        "station": "ทุ่งช้าง",
-        "province": "น่าน"
+        "value": 76.2,
+        "station": "ตราด",
+        "province": "ตราด"
       }
     },
     {
@@ -1560,7 +1560,7 @@
       "properties": {
         "date": "10/04/2026",
         "metric": "max_temp",
-        "value": 34.4,
+        "value": 37.2,
         "station": "ตาก",
         "province": "ตาก"
       }

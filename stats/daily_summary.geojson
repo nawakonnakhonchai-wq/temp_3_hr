@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "09/05/2026",
-        "metric": "min_temp",
-        "value": 19.0,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.14333,
-          16.87833
-        ]
-      },
-      "properties": {
-        "date": "09/05/2026",
-        "metric": "max_temp",
-        "value": 33.9,
-        "station": "ตาก",
-        "province": "ตาก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.61805,
-          15.90375
-        ]
-      },
-      "properties": {
-        "date": "09/05/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 68.4,
-        "station": "อำนาจเจริญ",
-        "province": "อำนาจเจริญ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "09/06/2026",
         "metric": "min_temp",
         "value": 18.3,
@@ -1578,6 +1527,57 @@
         "date": "10/05/2026",
         "metric": "max_rainfall_24hr",
         "value": 151.0,
+        "station": "อำนาจเจริญ",
+        "province": "อำนาจเจริญ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "10/06/2026",
+        "metric": "min_temp",
+        "value": 16.1,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.05,
+          9.46667
+        ]
+      },
+      "properties": {
+        "date": "10/06/2026",
+        "metric": "max_temp",
+        "value": 27.6,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.61805,
+          15.90375
+        ]
+      },
+      "properties": {
+        "date": "10/06/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 67.6,
         "station": "อำนาจเจริญ",
         "province": "อำนาจเจริญ"
       }

@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.61805,
-          15.90375
-        ]
-      },
-      "properties": {
-        "date": "09/06/2026",
-        "metric": "min_temp",
-        "value": 24.0,
-        "station": "อำนาจเจริญ",
-        "province": "อำนาจเจริญ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.14333,
-          16.87833
-        ]
-      },
-      "properties": {
-        "date": "09/06/2026",
-        "metric": "max_temp",
-        "value": 31.9,
-        "station": "ตาก",
-        "province": "ตาก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.55083,
-          16.65917
-        ]
-      },
-      "properties": {
-        "date": "09/06/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 65.2,
-        "station": "แม่สอด",
-        "province": "ตาก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           99.04833,
           19.93139
         ]
@@ -1576,6 +1525,57 @@
       },
       "properties": {
         "date": "10/06/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 72.6,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "10/07/2026",
+        "metric": "min_temp",
+        "value": 17.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.52697,
+          16.48681
+        ]
+      },
+      "properties": {
+        "date": "10/07/2026",
+        "metric": "max_temp",
+        "value": 35.5,
+        "station": "กำแพงเพชร",
+        "province": "กำแพงเพชร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.79239,
+          13.48931
+        ]
+      },
+      "properties": {
+        "date": "10/07/2026",
         "metric": "max_rainfall_24hr",
         "value": 72.6,
         "station": "ราชบุรี",

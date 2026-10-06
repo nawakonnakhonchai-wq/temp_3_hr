@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.61805,
-          15.90375
+          99.79239,
+          13.48931
         ]
       },
       "properties": {
         "date": "10/06/2026",
         "metric": "max_rainfall_24hr",
-        "value": 67.6,
-        "station": "อำนาจเจริญ",
-        "province": "อำนาจเจริญ"
+        "value": 72.6,
+        "station": "ราชบุรี",
+        "province": "ราชบุรี"
       }
     }
   ]

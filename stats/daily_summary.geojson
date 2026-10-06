@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          98.61667,
+          9.98333
         ]
       },
       "properties": {
         "date": "10/06/2026",
         "metric": "max_temp",
-        "value": 27.6,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 32.5,
+        "station": "ระนอง",
+        "province": "ระนอง"
       }
     },
     {

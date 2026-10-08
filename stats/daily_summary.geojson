@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "09/08/2026",
-        "metric": "min_temp",
-        "value": 19.6,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.16667,
-          7.58333
-        ]
-      },
-      "properties": {
-        "date": "09/08/2026",
-        "metric": "max_temp",
-        "value": 36.0,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.21436,
-          15.79494
-        ]
-      },
-      "properties": {
-        "date": "09/08/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 109.7,
-        "station": "ยโสธร",
-        "province": "ตาดทอง"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "09/09/2026",
         "metric": "min_temp",
         "value": 18.0,
@@ -1578,6 +1527,57 @@
         "date": "10/08/2026",
         "metric": "max_rainfall_24hr",
         "value": 83.7,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "10/09/2026",
+        "metric": "min_temp",
+        "value": 18.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5,
+          14.88333
+        ]
+      },
+      "properties": {
+        "date": "10/09/2026",
+        "metric": "max_temp",
+        "value": 28.5,
+        "station": "สุรินทร์",
+        "province": "สุรินทร์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.05,
+          9.46667
+        ]
+      },
+      "properties": {
+        "date": "10/09/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 83.3,
         "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }

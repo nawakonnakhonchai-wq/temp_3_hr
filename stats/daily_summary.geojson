@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "10/08/2026",
         "metric": "min_temp",
-        "value": 17.5,
+        "value": 17.4,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.605,
-          13.91917
+          100.98333,
+          13.36667
         ]
       },
       "properties": {
         "date": "10/08/2026",
         "metric": "max_temp",
-        "value": 28.1,
-        "station": "สนามบินดอนเมือง",
-        "province": "กรุงเทพมหานคร"
+        "value": 28.3,
+        "station": "ชลบุรี",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "10/08/2026",
         "metric": "max_rainfall_24hr",
-        "value": 64.4,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 67.4,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     }
   ]

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          13.36667
+          98.9725,
+          18.77111
         ]
       },
       "properties": {
         "date": "10/08/2026",
         "metric": "max_temp",
-        "value": 28.3,
-        "station": "ชลบุรี",
-        "province": "ชลบุรี"
+        "value": 34.8,
+        "station": "เชียงใหม่",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.28333,
-          6.51667
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "10/08/2026",
         "metric": "max_rainfall_24hr",
-        "value": 67.4,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
+        "value": 83.7,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     }
   ]

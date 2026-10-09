@@ -30,7 +30,7 @@
       "properties": {
         "date": "09/09/2026",
         "metric": "max_temp",
-        "value": 34.7,
+        "value": 31.7,
         "station": "ตาก",
         "province": "ตาก"
       }
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          103.51672,
+          18.41361
         ]
       },
       "properties": {
         "date": "09/09/2026",
         "metric": "max_rainfall_24hr",
-        "value": 103.6,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 95.2,
+        "station": "บึงกาฬ",
+        "province": "บึงกาฬ"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.7675,
-          13.68639
+          97.93333,
+          18.16667
         ]
       },
       "properties": {
         "date": "10/09/2026",
         "metric": "max_temp",
-        "value": 29.7,
-        "station": "สนามบินสุวรรณภูมิ",
-        "province": "สมุทรปราการ"
+        "value": 35.9,
+        "station": "แม่สะเรียง",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {

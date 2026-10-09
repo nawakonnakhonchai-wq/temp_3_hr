@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.51672,
-          18.41361
+          98.61667,
+          9.98333
         ]
       },
       "properties": {
         "date": "09/09/2026",
         "metric": "max_rainfall_24hr",
-        "value": 117.2,
-        "station": "บึงกาฬ",
-        "province": "บึงกาฬ"
+        "value": 103.6,
+        "station": "ระนอง",
+        "province": "ระนอง"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.5,
-          14.88333
+          100.7675,
+          13.68639
         ]
       },
       "properties": {
         "date": "10/09/2026",
         "metric": "max_temp",
-        "value": 28.5,
-        "station": "สุรินทร์",
-        "province": "สุรินทร์"
+        "value": 29.7,
+        "station": "สนามบินสุวรรณภูมิ",
+        "province": "สมุทรปราการ"
       }
     },
     {

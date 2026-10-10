@@ -1530,6 +1530,57 @@
         "station": "ยะลา สกษ.",
         "province": "ยะลา"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.88353,
+          19.41194
+        ]
+      },
+      "properties": {
+        "date": "10/11/2026",
+        "metric": "min_temp",
+        "value": 22.6,
+        "station": "ทุ่งช้าง",
+        "province": "น่าน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56,
+          13.72639
+        ]
+      },
+      "properties": {
+        "date": "10/11/2026",
+        "metric": "max_temp",
+        "value": 28.8,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.77778,
+          18.77972
+        ]
+      },
+      "properties": {
+        "date": "10/11/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 40.8,
+        "station": "น่าน",
+        "province": "น่าน"
+      }
     }
   ]
 }

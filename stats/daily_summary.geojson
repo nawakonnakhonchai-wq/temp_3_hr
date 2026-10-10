@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 148.3,
+        "value": 141.6,
         "station": "ศรีสะเกษ",
         "province": "ศรีสะเกษ"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          97.97578,
+          19.29897
         ]
       },
       "properties": {
         "date": "10/10/2026",
         "metric": "max_temp",
-        "value": 28.6,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 35.2,
+        "station": "แม่ฮ่องสอน",
+        "province": "แม่ฮ่องสอน"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "10/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 118.9,
+        "value": 149.1,
         "station": "ยะลา สกษ.",
         "province": "ยะลา"
       }

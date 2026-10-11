@@ -13,7 +13,7 @@
       "properties": {
         "date": "09/11/2026",
         "metric": "min_temp",
-        "value": 16.2,
+        "value": 18.0,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.05,
-          15.0
+          100.0,
+          8.35931
         ]
       },
       "properties": {
         "date": "09/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 141.3,
-        "station": "ศรีสะเกษ",
-        "province": "ศรีสะเกษ"
+        "value": 104.2,
+        "station": "นครศรีธรรมราช สกษ.",
+        "province": "นครศรีธรรมราช"
       }
     },
     {
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.88353,
-          19.41194
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "10/11/2026",
         "metric": "min_temp",
-        "value": 22.6,
-        "station": "ทุ่งช้าง",
-        "province": "น่าน"
+        "value": 16.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "10/11/2026",
         "metric": "max_temp",
-        "value": 28.8,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 34.4,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.77778,
-          18.77972
+          98.93333,
+          16.75
         ]
       },
       "properties": {
         "date": "10/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 40.8,
-        "station": "น่าน",
-        "province": "น่าน"
+        "value": 68.2,
+        "station": "ดอยมูเซอร์ สกษ.",
+        "province": "ตาก"
       }
     }
   ]

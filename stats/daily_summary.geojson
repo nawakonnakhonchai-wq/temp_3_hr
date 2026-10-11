@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "09/11/2026",
         "metric": "max_temp",
-        "value": 36.8,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 28.8,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.93333,
-          16.75
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "10/11/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.2,
-        "station": "ดอยมูเซอร์ สกษ.",
-        "province": "ตาก"
+        "value": 83.7,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     }
   ]

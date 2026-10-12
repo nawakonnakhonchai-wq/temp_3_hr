@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.08603,
-          14.9683
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "10/12/2026",
         "metric": "max_temp",
-        "value": 29.5,
-        "station": "นครราชสีมา",
-        "province": "นครราชสีมา"
+        "value": 33.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {

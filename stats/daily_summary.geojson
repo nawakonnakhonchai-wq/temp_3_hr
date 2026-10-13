@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
-        "date": "09/13/2026",
-        "metric": "min_temp",
-        "value": 19.9,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.28333,
-          6.51667
-        ]
-      },
-      "properties": {
-        "date": "09/13/2026",
-        "metric": "max_temp",
-        "value": 36.1,
-        "station": "ยะลา สกษ.",
-        "province": "ยะลา"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.34361,
-          12.63222
-        ]
-      },
-      "properties": {
-        "date": "09/13/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 58.0,
-        "station": "ระยอง",
-        "province": "ระยอง"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.38333,
           14.21667
         ]
@@ -1543,7 +1492,7 @@
       "properties": {
         "date": "10/13/2026",
         "metric": "min_temp",
-        "value": 23.5,
+        "value": 19.1,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

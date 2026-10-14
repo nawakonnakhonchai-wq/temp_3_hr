@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.97578,
-          19.29897
+          100.77778,
+          18.77972
         ]
       },
       "properties": {
         "date": "09/14/2026",
         "metric": "max_temp",
-        "value": 36.0,
-        "station": "แม่ฮ่องสอน",
-        "province": "แม่ฮ่องสอน"
+        "value": 30.5,
+        "station": "น่าน",
+        "province": "น่าน"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 70.2,
+        "value": 54.6,
         "station": "มุกดาหาร",
         "province": "มุกดาหาร"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          99.03333,
+          18.56667
         ]
       },
       "properties": {
         "date": "10/14/2026",
         "metric": "max_temp",
-        "value": 33.7,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 35.5,
+        "station": "ลำพูน",
+        "province": "ลำพูน"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9625,
-          12.58611
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "10/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 59.0,
-        "station": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์"
+        "value": 76.9,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     }
   ]

@@ -13,7 +13,7 @@
       "properties": {
         "date": "09/14/2026",
         "metric": "min_temp",
-        "value": 19.3,
+        "value": 19.7,
         "station": "นครนายก",
         "province": "นครนายก"
       }
@@ -1553,15 +1553,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.60611,
+          13.66639
         ]
       },
       "properties": {
         "date": "10/14/2026",
         "metric": "max_temp",
-        "value": 29.1,
-        "station": "กรุงเทพมหานคร",
+        "value": 29.8,
+        "station": "กรุงเทพฯ บางนา สกษ.",
         "province": "กรุงเทพมหานคร"
       }
     },
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.86472,
-          14.30361
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "10/14/2026",
         "metric": "max_rainfall_24hr",
-        "value": 47.8,
-        "station": "อู่ทอง สกษ.",
-        "province": "สุพรรณบุรี"
+        "value": 50.5,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     }
   ]

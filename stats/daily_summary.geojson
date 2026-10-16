@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/16/2026",
         "metric": "max_rainfall_24hr",
-        "value": 115.1,
+        "value": 113.9,
         "station": "หนองคาย",
         "province": "หนองคาย"
       }
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "10/16/2026",
         "metric": "min_temp",
-        "value": 23.1,
+        "value": 21.5,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "10/16/2026",
         "metric": "max_temp",
-        "value": 33.4,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.5,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

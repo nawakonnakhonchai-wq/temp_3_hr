@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "10/17/2026",
         "metric": "min_temp",
-        "value": 18.6,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03222,
-          13.40778
+          100.98333,
+          12.68333
         ]
       },
       "properties": {
         "date": "10/17/2026",
         "metric": "max_temp",
-        "value": 28.2,
-        "station": "สมุทรสงคราม",
-        "province": "สมุทรสงคราม"
+        "value": 28.5,
+        "station": "สัตหีบ",
+        "province": "ชลบุรี"
       }
     },
     {

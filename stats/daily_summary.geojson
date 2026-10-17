@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2793,
-          16.79481
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "10/17/2026",
         "metric": "max_temp",
-        "value": 33.4,
-        "station": "พิษณุโลก",
-        "province": "พิษณุโลก"
+        "value": 35.5,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "10/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 63.2,
+        "value": 64.6,
         "station": "ระนอง",
         "province": "ระนอง"
       }

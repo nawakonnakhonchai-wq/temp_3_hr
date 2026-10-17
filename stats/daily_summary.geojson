@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.93333,
-          18.16667
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/17/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "แม่สะเรียง",
-        "province": "แม่ฮ่องสอน"
+        "value": 31.0,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          101.3693,
+          14.05842
         ]
       },
       "properties": {
         "date": "09/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 88.0,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 79.2,
+        "station": "ปราจีนบุรี",
+        "province": "ปราจีนบุรี"
       }
     },
     {

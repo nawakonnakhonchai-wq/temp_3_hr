@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.18736,
-          15.26667
+          100.76167,
+          13.51667
         ]
       },
       "properties": {
         "date": "09/18/2026",
         "metric": "max_temp",
-        "value": 35.4,
-        "station": "บัวชุม",
-        "province": "ลพบุรี"
+        "value": 29.2,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/18/2026",
         "metric": "max_rainfall_24hr",
-        "value": 226.8,
+        "value": 219.8,
         "station": "ระนอง",
         "province": "ระนอง"
       }
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.98333,
-          12.68333
+          104.05,
+          15.0
         ]
       },
       "properties": {
         "date": "10/18/2026",
         "metric": "max_rainfall_24hr",
-        "value": 37.9,
-        "station": "สัตหีบ",
-        "province": "ชลบุรี"
+        "value": 70.4,
+        "station": "ศรีสะเกษ",
+        "province": "ศรีสะเกษ"
       }
     }
   ]

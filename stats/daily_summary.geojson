@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2793,
-          16.79481
+          100.1,
+          17.61667
         ]
       },
       "properties": {
         "date": "10/18/2026",
         "metric": "max_temp",
-        "value": 33.8,
-        "station": "พิษณุโลก",
-        "province": "พิษณุโลก"
+        "value": 35.3,
+        "station": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์"
       }
     },
     {

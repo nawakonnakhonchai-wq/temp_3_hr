@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.13236,
-          15.67183
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "09/19/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "นครสวรรค์",
-        "province": "นครสวรรค์"
+        "value": 29.1,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {

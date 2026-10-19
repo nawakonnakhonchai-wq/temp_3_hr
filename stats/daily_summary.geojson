@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          99.52697,
+          16.48681
         ]
       },
       "properties": {
         "date": "09/19/2026",
         "metric": "max_rainfall_24hr",
-        "value": 181.2,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 103.1,
+        "station": "กำแพงเพชร",
+        "province": "กำแพงเพชร"
       }
     },
     {

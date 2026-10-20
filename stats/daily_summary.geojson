@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.74728,
-          17.86511
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "09/20/2026",
         "metric": "max_temp",
-        "value": 34.8,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 29.0,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.52697,
-          16.48681
+          100.08333,
+          6.65
         ]
       },
       "properties": {
         "date": "09/20/2026",
         "metric": "max_rainfall_24hr",
-        "value": 71.3,
-        "station": "กำแพงเพชร",
-        "province": "กำแพงเพชร"
+        "value": 70.4,
+        "station": "สตูล",
+        "province": "สตูล"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9625,
-          12.58611
+          99.94722,
+          8.53778
         ]
       },
       "properties": {
         "date": "10/20/2026",
         "metric": "max_rainfall_24hr",
-        "value": 89.3,
-        "station": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์"
+        "value": 104.2,
+        "station": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช"
       }
     }
   ]

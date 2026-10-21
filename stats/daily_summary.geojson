@@ -1530,6 +1530,57 @@
         "station": "สงขลา",
         "province": "สงขลา"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "10/22/2026",
+        "metric": "min_temp",
+        "value": 19.9,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14333,
+          16.87833
+        ]
+      },
+      "properties": {
+        "date": "10/22/2026",
+        "metric": "max_temp",
+        "value": 26.6,
+        "station": "ตาก",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61667,
+          14.1
+        ]
+      },
+      "properties": {
+        "date": "10/22/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 49.0,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
+      }
     }
   ]
 }

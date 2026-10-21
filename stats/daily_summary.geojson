@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.18847,
-          10.49875
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/21/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "ชุมพร",
-        "province": "ชุมพร"
+        "value": 31.7,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2793,
-          16.79481
+          100.76167,
+          13.51667
         ]
       },
       "properties": {
         "date": "09/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 136.8,
-        "station": "พิษณุโลก",
-        "province": "พิษณุโลก"
+        "value": 112.2,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          100.77778,
+          18.77972
         ]
       },
       "properties": {
         "date": "10/21/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 36.4,
+        "station": "น่าน",
+        "province": "น่าน"
       }
     },
     {

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.7675,
+          13.68639
         ]
       },
       "properties": {
         "date": "10/21/2026",
         "metric": "max_temp",
-        "value": 28.2,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 28.6,
+        "station": "สนามบินสุวรรณภูมิ",
+        "province": "สมุทรปราการ"
       }
     },
     {

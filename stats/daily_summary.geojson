@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.9725,
-          18.77111
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "09/23/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "เชียงใหม่",
-        "province": "เชียงใหม่"
+        "value": 30.0,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.63639,
-          14.74222
+          100.86944,
+          12.92
         ]
       },
       "properties": {
         "date": "09/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 62.6,
-        "station": "ทองผาภูมิ",
-        "province": "กาญจนบุรี"
+        "value": 57.4,
+        "station": "พัทยา",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "10/23/2026",
         "metric": "max_temp",
-        "value": 34.5,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 36.3,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {

@@ -1530,6 +1530,57 @@
         "station": "พลิ้ว สกษ.",
         "province": "จันทบุรี"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.78278,
+          19.87083
+        ]
+      },
+      "properties": {
+        "date": "10/24/2026",
+        "metric": "min_temp",
+        "value": 22.0,
+        "station": "เชียงราย สกษ.",
+        "province": "เชียงราย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.605,
+          13.91917
+        ]
+      },
+      "properties": {
+        "date": "10/24/2026",
+        "metric": "max_temp",
+        "value": 28.4,
+        "station": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05,
+          7.53333
+        ]
+      },
+      "properties": {
+        "date": "10/24/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 48.6,
+        "station": "เกาะลันตา",
+        "province": "กระบี่"
+      }
     }
   ]
 }

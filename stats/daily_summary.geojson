@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.93333,
-          18.16667
+          99.05,
+          7.53333
         ]
       },
       "properties": {
         "date": "09/24/2026",
         "metric": "max_temp",
-        "value": 34.9,
-        "station": "แม่สะเรียง",
-        "province": "แม่ฮ่องสอน"
+        "value": 29.3,
+        "station": "เกาะลันตา",
+        "province": "กระบี่"
       }
     },
     {
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.78278,
-          19.87083
+          99.04833,
+          19.93139
         ]
       },
       "properties": {
         "date": "10/24/2026",
         "metric": "min_temp",
-        "value": 22.0,
-        "station": "เชียงราย สกษ.",
-        "province": "เชียงราย"
+        "value": 20.0,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
       }
     },
     {

@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 171.8,
+        "value": 128.6,
         "station": "พัทยา",
         "province": "ชลบุรี"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.605,
-          13.91917
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "10/24/2026",
         "metric": "max_temp",
-        "value": 28.4,
-        "station": "สนามบินดอนเมือง",
-        "province": "กรุงเทพมหานคร"
+        "value": 36.2,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.05,
-          7.53333
+          100.62833,
+          14.79972
         ]
       },
       "properties": {
         "date": "10/24/2026",
         "metric": "max_rainfall_24hr",
-        "value": 48.6,
-        "station": "เกาะลันตา",
-        "province": "กระบี่"
+        "value": 51.9,
+        "station": "ลพบุรี",
+        "province": "ลพบุรี"
       }
     }
   ]

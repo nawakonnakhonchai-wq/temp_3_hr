@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          100.77778,
+          18.77972
         ]
       },
       "properties": {
         "date": "10/25/2026",
         "metric": "max_temp",
-        "value": 34.2,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 36.3,
+        "station": "น่าน",
+        "province": "น่าน"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.62833,
-          14.79972
+          100.08333,
+          6.65
         ]
       },
       "properties": {
         "date": "10/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 51.9,
-        "station": "ลพบุรี",
-        "province": "ลพบุรี"
+        "value": 79.4,
+        "station": "สตูล",
+        "province": "สตูล"
       }
     }
   ]

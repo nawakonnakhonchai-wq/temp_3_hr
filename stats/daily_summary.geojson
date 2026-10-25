@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.88139,
-          19.96139
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "09/25/2026",
         "metric": "max_temp",
-        "value": 34.0,
-        "station": "เชียงราย",
-        "province": "เชียงราย"
+        "value": 29.9,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {

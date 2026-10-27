@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.93333,
-          18.16667
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "max_temp",
-        "value": 34.2,
-        "station": "แม่สะเรียง",
-        "province": "แม่ฮ่องสอน"
+        "value": 28.3,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -40,15 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.34361,
-          12.63222
+          101.135,
+          12.735
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 186.6,
-        "station": "ระยอง",
+        "value": 153.5,
+        "station": "ห้วยโป่ง สกษ.",
         "province": "ระยอง"
       }
     },

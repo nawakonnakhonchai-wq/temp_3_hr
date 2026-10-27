@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
+          101.34361,
+          12.63222
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 285.2,
-        "station": "นครนายก",
-        "province": "นครนายก"
+        "value": 186.6,
+        "station": "ระยอง",
+        "province": "ระยอง"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.24475,
-          17.63661
+          99.18847,
+          10.49875
         ]
       },
       "properties": {
         "date": "10/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 67.1,
-        "station": "เถิน",
-        "province": "ลำปาง"
+        "value": 78.3,
+        "station": "ชุมพร",
+        "province": "ชุมพร"
       }
     }
   ]

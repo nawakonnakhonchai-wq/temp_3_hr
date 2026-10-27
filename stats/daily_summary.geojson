@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
+          101.38333,
+          14.21667
         ]
       },
       "properties": {
         "date": "09/27/2026",
         "metric": "min_temp",
-        "value": 17.9,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
+        "value": 18.5,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "10/27/2026",
         "metric": "max_temp",
-        "value": 29.6,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 35.8,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.08333,
-          6.65
+          100.05,
+          9.46667
         ]
       },
       "properties": {
         "date": "09/28/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "สตูล",
-        "province": "สตูล"
+        "value": 30.5,
+        "station": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "09/28/2026",
         "metric": "max_rainfall_24hr",
-        "value": 133.0,
+        "value": 125.0,
         "station": "ทองผาภูมิ",
         "province": "กาญจนบุรี"
       }
@@ -1570,15 +1570,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          98.4,
+          7.88333
         ]
       },
       "properties": {
         "date": "10/28/2026",
         "metric": "max_rainfall_24hr",
-        "value": 69.4,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "value": 135.6,
+        "station": "ภูเก็ต",
         "province": "ภูเก็ต"
       }
     }

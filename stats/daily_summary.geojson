@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "09/30/2026",
-        "metric": "min_temp",
-        "value": 16.7,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.60611,
-          13.66639
-        ]
-      },
-      "properties": {
-        "date": "09/30/2026",
-        "metric": "max_temp",
-        "value": 35.3,
-        "station": "กรุงเทพฯ บางนา สกษ.",
-        "province": "กรุงเทพมหานคร"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.25222,
-          8.68417
-        ]
-      },
-      "properties": {
-        "date": "09/30/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 55.8,
-        "station": "ตะกั่วป่า",
-        "province": "พังงา"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/01/2026",
         "metric": "min_temp",
         "value": 16.7,
@@ -1553,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "10/30/2026",
         "metric": "max_temp",
-        "value": 29.7,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 35.2,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {

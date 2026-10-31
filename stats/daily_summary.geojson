@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.061,
-          17.12503
+          100.13889,
+          14.47444
         ]
       },
       "properties": {
         "date": "10/01/2026",
         "metric": "max_temp",
-        "value": 35.0,
-        "station": "สกลนคร สกษ.",
-        "province": "สกลนคร"
+        "value": 31.8,
+        "station": "สุพรรณบุรี",
+        "province": "สุพรรณบุรี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.08333,
-          6.65
+          99.15194,
+          9.13556
         ]
       },
       "properties": {
         "date": "10/01/2026",
         "metric": "max_rainfall_24hr",
-        "value": 55.0,
-        "station": "สตูล",
-        "province": "สตูล"
+        "value": 6.6,
+        "station": "สุราษฎร์ธานี",
+        "province": "สุราษฎร์ธานี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.61667,
-          14.1
+          102.16861,
+          14.71889
         ]
       },
       "properties": {
         "date": "10/31/2026",
         "metric": "max_temp",
-        "value": 33.5,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
+        "value": 36.0,
+        "station": "โชคชัย",
+        "province": "นครราชสีมา"
       }
     },
     {

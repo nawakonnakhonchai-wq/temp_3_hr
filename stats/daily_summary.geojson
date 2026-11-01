@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.14333,
-          16.87833
+          100.36711,
+          16.33878
         ]
       },
       "properties": {
         "date": "10/02/2026",
         "metric": "max_temp",
-        "value": 38.2,
-        "station": "ตาก",
-        "province": "ตาก"
+        "value": 31.2,
+        "station": "พิจิตร สกษ.",
+        "province": "พิจิตร"
       }
     },
     {
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
+          101.38333,
+          14.21667
         ]
       },
       "properties": {
         "date": "11/01/2026",
         "metric": "min_temp",
-        "value": 24.1,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
+        "value": 19.3,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "11/01/2026",
         "metric": "max_rainfall_24hr",
-        "value": 55.4,
+        "value": 63.6,
         "station": "สนามบินสุวรรณภูมิ",
         "province": "สมุทรปราการ"
       }

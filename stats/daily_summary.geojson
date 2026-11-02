@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.03222,
-          13.40778
+          98.55083,
+          16.65917
         ]
       },
       "properties": {
         "date": "11/02/2026",
         "metric": "max_temp",
-        "value": 28.6,
-        "station": "สมุทรสงคราม",
-        "province": "สมุทรสงคราม"
+        "value": 39.5,
+        "station": "แม่สอด",
+        "province": "ตาก"
       }
     },
     {

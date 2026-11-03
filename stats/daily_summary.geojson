@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.38333,
-          14.21667
-        ]
-      },
-      "properties": {
-        "date": "10/04/2026",
-        "metric": "min_temp",
-        "value": 21.1,
-        "station": "นครนายก",
-        "province": "นครนายก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.14333,
-          16.87833
-        ]
-      },
-      "properties": {
-        "date": "10/04/2026",
-        "metric": "max_temp",
-        "value": 37.2,
-        "station": "ตาก",
-        "province": "ตาก"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.24808,
-          15.22575
-        ]
-      },
-      "properties": {
-        "date": "10/04/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 55.2,
-        "station": "บุรีรัมย์",
-        "province": "บุรีรัมย์"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           99.04833,
           19.93139
         ]
@@ -1553,16 +1502,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.76167,
-          13.51667
+          100.56,
+          13.72639
         ]
       },
       "properties": {
         "date": "11/03/2026",
         "metric": "max_temp",
-        "value": 27.4,
-        "station": "สมุทรปราการ สกษ.",
-        "province": "สมุทรปราการ"
+        "value": 29.5,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {
@@ -1570,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.73333,
-          17.4
+          102.17305,
+          12.50861
         ]
       },
       "properties": {
         "date": "11/03/2026",
         "metric": "max_rainfall_24hr",
-        "value": 33.2,
-        "station": "เลย สกษ.",
-        "province": "เลย"
+        "value": 48.4,
+        "station": "พลิ้ว สกษ.",
+        "province": "จันทบุรี"
       }
     }
   ]

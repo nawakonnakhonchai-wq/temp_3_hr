@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          99.14333,
+          16.87833
         ]
       },
       "properties": {
         "date": "10/05/2026",
         "metric": "max_temp",
-        "value": 33.4,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 31.2,
+        "station": "ตาก",
+        "province": "ตาก"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "10/05/2026",
         "metric": "max_rainfall_24hr",
-        "value": 151.0,
+        "value": 100.4,
         "station": "อำนาจเจริญ",
         "province": "อำนาจเจริญ"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.05,
-          9.46667
+          100.13236,
+          15.67183
         ]
       },
       "properties": {
         "date": "11/04/2026",
         "metric": "max_temp",
-        "value": 28.1,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
+        "value": 34.2,
+        "station": "นครสวรรค์",
+        "province": "นครสวรรค์"
       }
     },
     {

@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.17305,
-          12.50861
+          101.38333,
+          14.21667
         ]
       },
       "properties": {
         "date": "11/04/2026",
         "metric": "max_rainfall_24hr",
-        "value": 48.4,
-        "station": "พลิ้ว สกษ.",
-        "province": "จันทบุรี"
+        "value": 69.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
       }
     }
   ]

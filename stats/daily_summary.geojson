@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.52697,
-          16.48681
+          99.24475,
+          17.63661
         ]
       },
       "properties": {
         "date": "10/07/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "กำแพงเพชร",
-        "province": "กำแพงเพชร"
+        "value": 34.4,
+        "station": "เถิน",
+        "province": "ลำปาง"
       }
     },
     {
@@ -1529,6 +1529,57 @@
         "value": 70.6,
         "station": "นครนายก",
         "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "11/06/2026",
+        "metric": "min_temp",
+        "value": 18.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56,
+          13.72639
+        ]
+      },
+      "properties": {
+        "date": "11/06/2026",
+        "metric": "max_temp",
+        "value": 27.3,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          14.58333
+        ]
+      },
+      "properties": {
+        "date": "11/06/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 56.4,
+        "station": "นางรอง",
+        "province": "บุรีรัมย์"
       }
     }
   ]

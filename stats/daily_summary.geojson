@@ -13,7 +13,7 @@
       "properties": {
         "date": "10/06/2026",
         "metric": "min_temp",
-        "value": 16.1,
+        "value": 17.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          102.78972,
+          16.46111
         ]
       },
       "properties": {
         "date": "10/06/2026",
         "metric": "max_temp",
-        "value": 32.5,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 29.3,
+        "station": "ขอนแก่น",
+        "province": "ขอนแก่น"
       }
     },
     {
@@ -1527,6 +1527,57 @@
         "date": "11/04/2026",
         "metric": "max_rainfall_24hr",
         "value": 69.4,
+        "station": "นครนายก",
+        "province": "นครนายก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "11/05/2026",
+        "metric": "min_temp",
+        "value": 22.1,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.78972,
+          16.46111
+        ]
+      },
+      "properties": {
+        "date": "11/05/2026",
+        "metric": "max_temp",
+        "value": 33.4,
+        "station": "ขอนแก่น",
+        "province": "ขอนแก่น"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.38333,
+          14.21667
+        ]
+      },
+      "properties": {
+        "date": "11/05/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 70.6,
         "station": "นครนายก",
         "province": "นครนายก"
       }

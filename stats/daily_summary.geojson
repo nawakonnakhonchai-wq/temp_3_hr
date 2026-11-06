@@ -1530,6 +1530,57 @@
         "station": "นางรอง",
         "province": "บุรีรัมย์"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "11/07/2026",
+        "metric": "min_temp",
+        "value": 16.6,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.13889,
+          14.47444
+        ]
+      },
+      "properties": {
+        "date": "11/07/2026",
+        "metric": "max_temp",
+        "value": 28.5,
+        "station": "สุพรรณบุรี",
+        "province": "สุพรรณบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.108,
+          15.657
+        ]
+      },
+      "properties": {
+        "date": "11/07/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 52.6,
+        "station": "วิเชียรบุรี",
+        "province": "เพชรบูรณ์"
+      }
     }
   ]
 }

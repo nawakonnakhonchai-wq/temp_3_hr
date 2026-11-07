@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "10/08/2026",
-        "metric": "min_temp",
-        "value": 22.6,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.9725,
-          18.77111
-        ]
-      },
-      "properties": {
-        "date": "10/08/2026",
-        "metric": "max_temp",
-        "value": 34.8,
-        "station": "เชียงใหม่",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.05,
-          9.46667
-        ]
-      },
-      "properties": {
-        "date": "10/08/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 83.7,
-        "station": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/09/2026",
         "metric": "min_temp",
         "value": 18.0,
@@ -1570,16 +1519,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2793,
-          16.79481
+          99.0025,
+          17.24389
         ]
       },
       "properties": {
         "date": "11/07/2026",
         "metric": "max_rainfall_24hr",
-        "value": 90.0,
-        "station": "พิษณุโลก",
-        "province": "พิษณุโลก"
+        "value": 91.0,
+        "station": "เขื่อนภูมิพล",
+        "province": "ตาก"
       }
     }
   ]

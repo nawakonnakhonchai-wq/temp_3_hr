@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.97578,
-          19.29897
+          100.56,
+          13.72639
         ]
       },
       "properties": {
         "date": "10/10/2026",
         "metric": "max_temp",
-        "value": 35.2,
-        "station": "แม่ฮ่องสอน",
-        "province": "แม่ฮ่องสอน"
+        "value": 30.8,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "10/10/2026",
         "metric": "max_rainfall_24hr",
-        "value": 149.1,
+        "value": 133.9,
         "station": "ยะลา สกษ.",
         "province": "ยะลา"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.31444,
-          8.145
+          100.2793,
+          16.79481
         ]
       },
       "properties": {
         "date": "11/09/2026",
         "metric": "max_temp",
-        "value": 28.1,
-        "station": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต"
+        "value": 34.8,
+        "station": "พิษณุโลก",
+        "province": "พิษณุโลก"
       }
     },
     {

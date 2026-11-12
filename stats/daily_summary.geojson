@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.725,
-          14.53472
+          99.8,
+          17.10611
         ]
       },
       "properties": {
         "date": "10/13/2026",
         "metric": "max_temp",
-        "value": 36.0,
-        "station": "พระนครศรีอยุธยา",
-        "province": "พระนครศรีอยุธยา"
+        "value": 30.5,
+        "station": "สุโขทัย",
+        "province": "สุโขทัย"
       }
     },
     {
@@ -47,7 +47,7 @@
       "properties": {
         "date": "10/13/2026",
         "metric": "max_rainfall_24hr",
-        "value": 68.8,
+        "value": 58.0,
         "station": "ภูเก็ต (ศูนย์ฯ)",
         "province": "ภูเก็ต"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.88333,
-          11.76667
+          101.28333,
+          6.51667
         ]
       },
       "properties": {
         "date": "11/12/2026",
         "metric": "max_temp",
-        "value": 26.9,
-        "station": "ตราด",
-        "province": "ตราด"
+        "value": 35.2,
+        "station": "ยะลา สกษ.",
+        "province": "ยะลา"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "11/12/2026",
         "metric": "max_rainfall_24hr",
-        "value": 84.1,
+        "value": 93.5,
         "station": "เกาะสมุย",
         "province": "สุราษฎร์ธานี"
       }

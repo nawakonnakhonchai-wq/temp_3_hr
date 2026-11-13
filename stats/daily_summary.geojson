@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.03333,
-          18.56667
+          101.81667,
+          6.41667
         ]
       },
       "properties": {
         "date": "10/14/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "ลำพูน",
-        "province": "ลำพูน"
+        "value": 29.6,
+        "station": "นราธิวาส",
+        "province": "นราธิวาส"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "11/13/2026",
         "metric": "max_rainfall_24hr",
-        "value": 131.0,
+        "value": 193.0,
         "station": "ชุมพร",
         "province": "ชุมพร"
       }

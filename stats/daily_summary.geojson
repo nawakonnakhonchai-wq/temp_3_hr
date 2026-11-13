@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "10/14/2026",
-        "metric": "min_temp",
-        "value": 18.9,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.81667,
-          6.41667
-        ]
-      },
-      "properties": {
-        "date": "10/14/2026",
-        "metric": "max_temp",
-        "value": 29.6,
-        "station": "นราธิวาส",
-        "province": "นราธิวาส"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03889,
-          15.37417
-        ]
-      },
-      "properties": {
-        "date": "10/14/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 76.9,
-        "station": "อุทัยธานี",
-        "province": "อุทัยธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/15/2026",
         "metric": "min_temp",
         "value": 17.1,
@@ -1580,6 +1529,57 @@
         "value": 193.0,
         "station": "ชุมพร",
         "province": "ชุมพร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.88353,
+          19.41194
+        ]
+      },
+      "properties": {
+        "date": "11/14/2026",
+        "metric": "min_temp",
+        "value": 17.7,
+        "station": "ทุ่งช้าง",
+        "province": "น่าน"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.76167,
+          13.51667
+        ]
+      },
+      "properties": {
+        "date": "11/14/2026",
+        "metric": "max_temp",
+        "value": 27.0,
+        "station": "สมุทรปราการ สกษ.",
+        "province": "สมุทรปราการ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.16667,
+          7.58333
+        ]
+      },
+      "properties": {
+        "date": "11/14/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 44.1,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     }
   ]

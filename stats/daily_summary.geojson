@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "10/15/2026",
-        "metric": "min_temp",
-        "value": 18.1,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.53583,
-          14.0225
-        ]
-      },
-      "properties": {
-        "date": "10/15/2026",
-        "metric": "max_temp",
-        "value": 29.0,
-        "station": "กาญจนบุรี",
-        "province": "กาญจนบุรี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.11333,
-          12.61667
-        ]
-      },
-      "properties": {
-        "date": "10/15/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 64.5,
-        "station": "จันทบุรี",
-        "province": "จันทบุรี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/16/2026",
         "metric": "min_temp",
         "value": 19.6,
@@ -1580,6 +1529,57 @@
         "value": 74.8,
         "station": "ฉวาง",
         "province": "นครศรีธรรมราช"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "11/15/2026",
+        "metric": "min_temp",
+        "value": 16.1,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "date": "11/15/2026",
+        "metric": "max_temp",
+        "value": 28.4,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.08333,
+          6.65
+        ]
+      },
+      "properties": {
+        "date": "11/15/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 37.6,
+        "station": "สตูล",
+        "province": "สตูล"
       }
     }
   ]

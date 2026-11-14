@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.74728,
-          17.86511
+          99.53583,
+          14.0225
         ]
       },
       "properties": {
         "date": "10/15/2026",
         "metric": "max_temp",
-        "value": 34.7,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 29.0,
+        "station": "กาญจนบุรี",
+        "province": "กาญจนบุรี"
       }
     },
     {
@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "11/14/2026",
         "metric": "min_temp",
-        "value": 17.5,
+        "value": 16.1,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }

@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.81667,
+          16.33333
         ]
       },
       "properties": {
         "date": "11/15/2026",
         "metric": "max_temp",
-        "value": 28.4,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 35.0,
+        "station": "ท่าพระ สกษ.",
+        "province": "ขอนแก่น"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "11/15/2026",
         "metric": "max_rainfall_24hr",
-        "value": 37.6,
+        "value": 77.0,
         "station": "สตูล",
         "province": "สตูล"
       }

@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.1,
-          17.61667
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "10/17/2026",
         "metric": "max_temp",
-        "value": 35.5,
-        "station": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์"
+        "value": 29.8,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.61667,
-          9.98333
+          100.98333,
+          13.36667
         ]
       },
       "properties": {
         "date": "10/17/2026",
         "metric": "max_rainfall_24hr",
-        "value": 64.6,
-        "station": "ระนอง",
-        "province": "ระนอง"
+        "value": 31.0,
+        "station": "ชลบุรี",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59944,
-          13.37722
+          102.81667,
+          16.33333
         ]
       },
       "properties": {
         "date": "11/16/2026",
         "metric": "max_temp",
-        "value": 29.0,
-        "station": "นำร่อง",
-        "province": "สมุทรปราการ"
+        "value": 35.9,
+        "station": "ท่าพระ สกษ.",
+        "province": "ขอนแก่น"
       }
     },
     {

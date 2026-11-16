@@ -13,7 +13,7 @@
       "properties": {
         "date": "10/17/2026",
         "metric": "min_temp",
-        "value": 17.8,
+        "value": 19.4,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1536,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.04833,
-          19.93139
+          98.93333,
+          16.75
         ]
       },
       "properties": {
         "date": "11/16/2026",
         "metric": "min_temp",
-        "value": 17.6,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
+        "value": 16.7,
+        "station": "ดอยมูเซอร์ สกษ.",
+        "province": "ตาก"
       }
     },
     {
@@ -1553,15 +1553,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.76167,
-          13.51667
+          100.59944,
+          13.37722
         ]
       },
       "properties": {
         "date": "11/16/2026",
         "metric": "max_temp",
-        "value": 28.8,
-        "station": "สมุทรปราการ สกษ.",
+        "value": 29.0,
+        "station": "นำร่อง",
         "province": "สมุทรปราการ"
       }
     },

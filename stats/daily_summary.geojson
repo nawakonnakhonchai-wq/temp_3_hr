@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.74728,
-          17.86511
+          100.03889,
+          15.37417
         ]
       },
       "properties": {
         "date": "10/20/2026",
         "metric": "max_temp",
-        "value": 35.6,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
+        "value": 32.5,
+        "station": "อุทัยธานี",
+        "province": "อุทัยธานี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          101.3693,
+          14.05842
         ]
       },
       "properties": {
         "date": "11/19/2026",
         "metric": "max_temp",
-        "value": 29.9,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.0,
+        "station": "ปราจีนบุรี",
+        "province": "ปราจีนบุรี"
       }
     },
     {
@@ -1577,7 +1577,7 @@
       "properties": {
         "date": "11/19/2026",
         "metric": "max_rainfall_24hr",
-        "value": 79.9,
+        "value": 98.3,
         "station": "สวี สกษ.",
         "province": "ชุมพร"
       }

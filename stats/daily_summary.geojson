@@ -13,7 +13,7 @@
       "properties": {
         "date": "10/22/2026",
         "metric": "min_temp",
-        "value": 18.9,
+        "value": 19.8,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.16667,
-          7.58333
+          100.06056,
+          12.99944
         ]
       },
       "properties": {
         "date": "10/22/2026",
         "metric": "max_temp",
-        "value": 33.9,
-        "station": "พัทลุง สกษ.",
-        "province": "พัทลุง"
+        "value": 29.5,
+        "station": "เพชรบุรี",
+        "province": "เพชรบุรี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.45833,
-          13.51556
+          102.17305,
+          12.50861
         ]
       },
       "properties": {
         "date": "10/22/2026",
         "metric": "max_rainfall_24hr",
-        "value": 84.5,
-        "station": "ฉะเชิงเทรา",
-        "province": "ฉะเชิงเทรา"
+        "value": 57.9,
+        "station": "พลิ้ว สกษ.",
+        "province": "จันทบุรี"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "11/21/2026",
         "metric": "max_temp",
-        "value": 30.0,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 34.7,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.94722,
-          8.53778
+          100.16667,
+          7.58333
         ]
       },
       "properties": {
         "date": "11/21/2026",
         "metric": "max_rainfall_24hr",
-        "value": 46.4,
-        "station": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช"
+        "value": 97.2,
+        "station": "พัทลุง สกษ.",
+        "province": "พัทลุง"
       }
     }
   ]

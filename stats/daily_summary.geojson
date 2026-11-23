@@ -1543,7 +1543,7 @@
       "properties": {
         "date": "11/23/2026",
         "metric": "min_temp",
-        "value": 17.1,
+        "value": 16.5,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -1570,16 +1570,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5,
-          7.0
+          101.81667,
+          6.41667
         ]
       },
       "properties": {
         "date": "11/23/2026",
         "metric": "max_rainfall_24hr",
-        "value": 70.4,
-        "station": "คอหงษ์ สกษ.",
-        "province": "สงขลา"
+        "value": 92.6,
+        "station": "นราธิวาส",
+        "province": "นราธิวาส"
       }
     }
   ]

@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "10/25/2026",
-        "metric": "min_temp",
-        "value": 20.2,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61667,
-          14.1
-        ]
-      },
-      "properties": {
-        "date": "10/25/2026",
-        "metric": "max_temp",
-        "value": 30.2,
-        "station": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.61667,
-          7.51667
-        ]
-      },
-      "properties": {
-        "date": "10/25/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 67.4,
-        "station": "ตรัง",
-        "province": "ตรัง"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/26/2026",
         "metric": "min_temp",
         "value": 17.8,
@@ -1580,6 +1529,57 @@
         "value": 54.8,
         "station": "นราธิวาส",
         "province": "นราธิวาส"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.93333,
+          16.75
+        ]
+      },
+      "properties": {
+        "date": "11/25/2026",
+        "metric": "min_temp",
+        "value": 18.0,
+        "station": "ดอยมูเซอร์ สกษ.",
+        "province": "ตาก"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56,
+          13.72639
+        ]
+      },
+      "properties": {
+        "date": "11/25/2026",
+        "metric": "max_temp",
+        "value": 29.1,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.97528,
+          8.10361
+        ]
+      },
+      "properties": {
+        "date": "11/25/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 36.8,
+        "station": "กระบี่",
+        "province": "กระบี่"
       }
     }
   ]

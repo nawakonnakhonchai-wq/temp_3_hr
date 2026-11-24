@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.77778,
-          18.77972
+          100.61667,
+          14.1
         ]
       },
       "properties": {
         "date": "10/25/2026",
         "metric": "max_temp",
-        "value": 36.3,
-        "station": "น่าน",
-        "province": "น่าน"
+        "value": 30.2,
+        "station": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี"
       }
     },
     {
@@ -40,16 +40,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.08333,
-          6.65
+          99.61667,
+          7.51667
         ]
       },
       "properties": {
         "date": "10/25/2026",
         "metric": "max_rainfall_24hr",
-        "value": 79.4,
-        "station": "สตูล",
-        "province": "สตูล"
+        "value": 67.4,
+        "station": "ตรัง",
+        "province": "ตรัง"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.59944,
-          13.37722
+          101.70722,
+          13.98333
         ]
       },
       "properties": {
         "date": "11/24/2026",
         "metric": "max_temp",
-        "value": 28.3,
-        "station": "นำร่อง",
-        "province": "สมุทรปราการ"
+        "value": 32.4,
+        "station": "กบินทร์บุรี",
+        "province": "ปราจีนบุรี"
       }
     },
     {

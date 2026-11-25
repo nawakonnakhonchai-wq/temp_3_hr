@@ -11,57 +11,6 @@
         ]
       },
       "properties": {
-        "date": "10/26/2026",
-        "metric": "min_temp",
-        "value": 17.8,
-        "station": "ดอยอ่างขาง",
-        "province": "เชียงใหม่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.74728,
-          17.86511
-        ]
-      },
-      "properties": {
-        "date": "10/26/2026",
-        "metric": "max_temp",
-        "value": 32.4,
-        "station": "หนองคาย",
-        "province": "หนองคาย"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.05,
-          7.53333
-        ]
-      },
-      "properties": {
-        "date": "10/26/2026",
-        "metric": "max_rainfall_24hr",
-        "value": 85.6,
-        "station": "เกาะลันตา",
-        "province": "กระบี่"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.04833,
-          19.93139
-        ]
-      },
-      "properties": {
         "date": "10/27/2026",
         "metric": "min_temp",
         "value": 17.3,
@@ -1580,6 +1529,57 @@
         "value": 36.8,
         "station": "กระบี่",
         "province": "กระบี่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04833,
+          19.93139
+        ]
+      },
+      "properties": {
+        "date": "11/26/2026",
+        "metric": "min_temp",
+        "value": 16.7,
+        "station": "ดอยอ่างขาง",
+        "province": "เชียงใหม่"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56,
+          13.72639
+        ]
+      },
+      "properties": {
+        "date": "11/26/2026",
+        "metric": "max_temp",
+        "value": 28.6,
+        "station": "กรุงเทพมหานคร",
+        "province": "กรุงเทพมหานคร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0,
+          8.35931
+        ]
+      },
+      "properties": {
+        "date": "11/26/2026",
+        "metric": "max_rainfall_24hr",
+        "value": 33.8,
+        "station": "นครศรีธรรมราช สกษ.",
+        "province": "นครศรีธรรมราช"
       }
     }
   ]

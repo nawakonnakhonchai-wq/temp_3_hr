@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.80194,
-          13.16167
+          102.74728,
+          17.86511
         ]
       },
       "properties": {
         "date": "10/26/2026",
         "metric": "max_temp",
-        "value": 33.9,
-        "station": "เกาะสีชัง",
-        "province": "ชลบุรี"
+        "value": 32.4,
+        "station": "หนองคาย",
+        "province": "หนองคาย"
       }
     },
     {
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          100.80194,
+          13.16167
         ]
       },
       "properties": {
         "date": "11/25/2026",
         "metric": "max_temp",
-        "value": 29.1,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 35.6,
+        "station": "เกาะสีชัง",
+        "province": "ชลบุรี"
       }
     },
     {

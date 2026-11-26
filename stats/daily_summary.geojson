@@ -13,7 +13,7 @@
       "properties": {
         "date": "10/27/2026",
         "metric": "min_temp",
-        "value": 17.3,
+        "value": 20.1,
         "station": "ดอยอ่างขาง",
         "province": "เชียงใหม่"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "date": "10/27/2026",
         "metric": "max_rainfall_24hr",
-        "value": 78.3,
+        "value": 57.7,
         "station": "ชุมพร",
         "province": "ชุมพร"
       }
@@ -1553,16 +1553,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.56,
-          13.72639
+          98.31444,
+          8.145
         ]
       },
       "properties": {
         "date": "11/26/2026",
         "metric": "max_temp",
-        "value": 28.6,
-        "station": "กรุงเทพมหานคร",
-        "province": "กรุงเทพมหานคร"
+        "value": 32.8,
+        "station": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต"
       }
     },
     {
